@@ -1,4 +1,4 @@
-# [Proof by inductions]()
+# [Proof by inductions](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3240/cs3240.md)
 same stuff covered by 1st year uofg maths
 
 ##### Base Case
