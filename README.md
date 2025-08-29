@@ -5,6 +5,8 @@
 ### [CS 3050 -- software engineering](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/CS3050home.md)
 ### [CS 3280 -- HCI](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3280/cs3280.md)
 ## To Do:
-- [ ] get the design of everyday things book (CS3280) 
+- [ ] Due 2nd sep ---- HCI ---- quiz is based on Norman's book - chapter 1 
 ## Done:
-- [x] proof by induction cs3240 assignment 
+- [x] proof by induction cs3240 assignment
+- [x] get the design of everyday things book (CS3280) 
+
