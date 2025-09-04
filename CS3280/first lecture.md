@@ -1,7 +1,7 @@
 # [1st Lecture](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3280/cs3280.md)
 ### PACT analysis
 **P**eople conducting **A**ctivities in a **C**ontext using **T**echnology
-# 2nd Lecture
+# 2nd Lecture 1st chaptar
 ### Affordances
 - is the relationship between properties of an object and the capabilities of an agent
 - sometimes affordances are not visible
@@ -15,3 +15,5 @@ are things or ideas indicationg certain actions are not possible
 - is a reaction to response to a particular action
 ### Conceptual Models
 are explantions of how something works
+# 3rd lecture 2nd chaptar
+### Gulf of Evaluation
