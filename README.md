@@ -6,7 +6,7 @@
 ### [CS 3280 -- HCI](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3280/cs3280.md)
 ## To Do:
 - [ ] due 6th (sat) ---- software ---- [Warmup Project Deliverable #2](https://brightspace.uvm.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=125066&db=204874&grpid=138225)
-- [ ] 
+- [ ] read the second chaptar of the hci book
 - [ ] apply for outing club stuff
     - [x] smac
     - [ ] wild b
