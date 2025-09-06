@@ -5,7 +5,6 @@
 ### [CS 3050 -- software engineering](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/CS3050home.md)
 ### [CS 3280 -- HCI](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3280/cs3280.md)
 ## To Do:
-- [ ] due 6th (sat) ---- software ---- [Warmup Project Deliverable #2](https://brightspace.uvm.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=125066&db=204874&grpid=138225)
 - [ ] read the second chaptar of the hci book
 - [ ] apply for outing club stuff
     - [x] smac
@@ -13,6 +12,7 @@
     - [ ] kayak
 
 ## Done:
+- [x] due 6th (sat) ---- software ---- [Warmup Project Deliverable #2](https://brightspace.uvm.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=125066&db=204874&grpid=138225)
 - [x] Due sep 2 ---- HCI ---- quiz is based on Norman's book - chapter 1
 - [x] Due sep 2 ---- HCI ---- [novel invention](https://brightspace.uvm.edu/d2l/le/content/129665/viewContent/2359130/View)
 - [x] proof by induction cs3240 assignment
