@@ -5,7 +5,7 @@
 ### [CS 3050 -- software engineering](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/CS3050home.md)
 ### [CS 3280 -- HCI](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3280/cs3280.md)
 ## To Do:
-- [ ] read the second chaptar of the hci book
+- [ ] Due monday do MONDAY!! read the second chaptar of the hci book
 - [ ] Due 24th sep ---- Deliverable #3: Individual Report
 - [ ] apply for outing club stuff
     - [x] smac
