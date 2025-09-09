@@ -7,10 +7,7 @@
 ## To Do:
 - [ ] Due monday do MONDAY!! read the second chaptar of the hci book
 - [ ] Due 24th sep ---- Deliverable #3: Individual Report
-- [ ] apply for outing club stuff
-    - [x] smac
-    - [ ] wild b
-    - [ ] kayak
+
 
 ## Done:
 - [x] due 6th (sat) ---- software ---- [Warmup Project Deliverable #2](https://brightspace.uvm.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=125066&db=204874&grpid=138225)
