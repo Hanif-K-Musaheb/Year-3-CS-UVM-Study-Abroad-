@@ -16,4 +16,6 @@ are things or ideas indicationg certain actions are not possible
 ### Conceptual Models
 are explantions of how something works
 # 3rd lecture 2nd chaptar
-### Gulf of Evaluation
+### The Gulfs of Execution and Evaluation –
+ - **The Gulf of Execution** is the gap between what a person wants to do and the actions available to achieve it.
+ - **The Gulf of Evaluation** is the gap between what happened and whether the user can understand if it matches their goal. Designers must provide clear signifiers, feedback, and mappings to help users cross these gulfs.
