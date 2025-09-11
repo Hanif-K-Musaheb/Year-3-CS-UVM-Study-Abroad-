@@ -19,3 +19,12 @@ are explantions of how something works
 ### The Gulfs of Execution and Evaluation –
  - **The Gulf of Execution** is the gap between what a person wants to do and the actions available to achieve it.
  - **The Gulf of Evaluation** is the gap between what happened and whether the user can understand if it matches their goal. Designers must provide clear signifiers, feedback, and mappings to help users cross these gulfs.
+
+# 3rd chaptar
+### 🧠 Norman’s Two Types of Knowledge
+#### Knowledge in the Head
+ - Internalized knowledge people carry with them — built from experience, culture, and learning.
+ - **Examples**: how to ride a bike, remembering keyboard shortcuts, believing percentages always scale linearly.
+#### knowledge in the World
+ - Information provided by the environment, interface, or physical cues that guide behavior.
+ - **Examples**: road signs, affordances of a door handle, a phone’s battery % display.
