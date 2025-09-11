@@ -28,3 +28,16 @@ are explantions of how something works
 #### knowledge in the World
  - Information provided by the environment, interface, or physical cues that guide behavior.
  - **Examples**: road signs, affordances of a door handle, a phone’s battery % display.
+# 4th chaptar
+## four types of constraints
+### physical constraints
+### cultural constraints
+### semantic constraints
+### logical constraints
+## Discoverability
+ - logical grouping
+ - location
+ - saliency
+ - simplicity
+ - colors
+ - 
