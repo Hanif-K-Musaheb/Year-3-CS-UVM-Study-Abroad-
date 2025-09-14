@@ -7,6 +7,7 @@
 ## To Do:
 - [ ] Due 24th sep ---- Deliverable #3: Individual Report
 - [ ] Do the notes for the 3rd and 4th chaptar of HCI
+- [ ] due 18th@1pm ---- [group deliveriable HCI](https://brightspace.uvm.edu/d2l/le/content/129665/viewContent/2359221/View)
 
 
 ## Done:
