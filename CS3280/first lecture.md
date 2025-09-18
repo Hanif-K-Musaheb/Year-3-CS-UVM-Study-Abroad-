@@ -24,6 +24,9 @@ are explantions of how something works
  - You decide what you want to accomplish.
  - Example: “I want to print this document.”
  - Errors here → Mistakes if the goal itself is wrong (e.g., thinking the wrong file needs to be printed).
+
+# Lecture 18 sep
+sample interview
 ### Forming the Intention
  - You decide what actions will achieve the goal.
  - Example: “I’ll press the print button in Word.”
