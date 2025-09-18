@@ -19,6 +19,35 @@ are explantions of how something works
 ### The Gulfs of Execution and Evaluation –
  - **The Gulf of Execution** is the gap between what a person wants to do and the actions available to achieve it.
  - **The Gulf of Evaluation** is the gap between what happened and whether the user can understand if it matches their goal. Designers must provide clear signifiers, feedback, and mappings to help users cross these gulfs.
+## Seven Stages of Action
+### Forming the Goal
+ - You decide what you want to accomplish.
+ - Example: “I want to print this document.”
+ - Errors here → Mistakes if the goal itself is wrong (e.g., thinking the wrong file needs to be printed).
+### Forming the Intention
+ - You decide what actions will achieve the goal.
+ - Example: “I’ll press the print button in Word.”
+ - Errors here → Rule-based mistakes (misapplying a rule, like thinking Ctrl+P always prints when the program doesn’t support it).
+### Specifying the Action Sequence
+ - You determine the exact steps needed.
+ - Example: “Click File → Print → Select Printer.”
+ - Errors here → Knowledge-based mistakes (choosing wrong steps because of misunderstanding).
+### Executing the Action
+ - You physically carry out the steps.
+ - Example: Clicking the print button.
+ - Errors here → Slips, such as clicking the wrong button or hitting the wrong keyboard shortcut.
+### Perceiving the System State
+ - You observe the system’s response.
+ - Example: The printer icon appears or nothing seems to happen.
+ - Errors here → Slips or lapses if you fail to notice the feedback (e.g., missing a warning message).
+### Interpreting the System State
+ - You make sense of what happened.
+ - Example: “The printer is warming up” vs. “The printer is broken.”
+ - Errors here → Mistakes if feedback is ambiguous or misleading (e.g., a vague “Error 41” message).
+### Evaluating the Outcome
+ - You compare the result with your original goal.
+ - Example: “Did the document actually print correctly?”
+ - Errors here → Mistakes if you misjudge success (e.g., assuming it printed when it didn’t).
 
 # 3rd chaptar
 ### 🧠 Norman’s Two Types of Knowledge
@@ -56,7 +85,28 @@ People often blame themselves for mistakes, but Norman argues that errors are us
  - Poor interfaces that confuse or mislead users.
  - Social and institutional pressures that force people into error-prone actions (e.g., rushing, multitasking).
 
+### Two Types of Errors
+ - **Slips** → Right goal, wrong execution.
+   - Examples: pressing the wrong button, typing a typo.
+   - Two main categories: action-based slips (wrong physical action) and memory lapses (forgetting to act).
+ - **Mistakes** → Wrong goal or plan.
+   - Examples: misunderstanding a medication label, misinterpreting a display.
+   - Categories: **rule-based mistakes** (misapplying a rule), **knowledge-based mistakes** (lack of understanding), and **memory lapses**.
 
+### Error Classification and the Seven Stages of Action
+Norman maps slips and mistakes onto his seven-stage model (goal → execution → evaluation), showing how design flaws create opportunities for errors at different stages.
 
+### Designing for Error
+Don’t blame people → design systems that anticipate human fallibility.
 
+#### Strategies:
+ - Constraints that prevent dangerous or impossible actions.
+ - Forcing functions like “lockouts” (car won’t start unless brake is pressed) or “lock-ins” (confirm before deleting a file).
+ - Clear feedback so users notice errors quickly.
+ - Undo functions that allow recovery.
+ - Resilience engineering: build systems that adapt and allow recovery rather than fail catastrophically.
+
+### Automation Paradox
+ - Automation can reduce some errors but introduce new ones.
+ - Over-reliance on automation can make users complacent or unprepared when manual intervention is needed.
    
