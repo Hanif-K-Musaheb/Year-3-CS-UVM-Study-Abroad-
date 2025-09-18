@@ -30,14 +30,33 @@ are explantions of how something works
  - **Examples**: road signs, affordances of a door handle, a phone’s battery % display.
 # 4th chaptar
 ## four types of constraints
-### physical constraints
-### cultural constraints
-### semantic constraints
-### logical constraints
+ - Physical constraints → the shape or size prevents incorrect use (e.g., a USB plug only fits one way).
+ - Cultural constraints → social conventions guide behavior (e.g., red means stop, green means go).
+ - Semantic constraints → meaning of the situation limits options (e.g., a rider sits facing forward on a bicycle).
+ - Logical constraints → process of elimination makes the correct choice obvious (e.g., puzzle pieces can only fit in one place).
+   
 ## Discoverability
+A design should make it obvious what can be done. This ties back to affordances and signifiers from earlier chapters. Users shouldn’t need a manual to figure out simple actions like turning on a faucet or pushing a door.
+
+
+(complete another time)
+
  - logical grouping
  - location
  - saliency
  - simplicity
  - colors
- - 
+
+# 5th chaptar - Human Error? No, Bad Design
+### core idea
+People often blame themselves for mistakes, but Norman argues that errors are usually the result of bad design, not human incompetence. Good design anticipates errors, prevents them when possible, and helps users recover gracefully.
+
+### Why Errors Happen
+ - Human limitations (memory lapses, distraction, stress).
+ - Poor interfaces that confuse or mislead users.
+ - Social and institutional pressures that force people into error-prone actions (e.g., rushing, multitasking).
+
+
+
+
+   
