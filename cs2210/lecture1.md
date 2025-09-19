@@ -1,1 +1,28 @@
-# [Binary](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/cs2210/cs2210home.md)
+# [start-19sep](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/cs2210/cs2210home.md)
+## MOS (metal-oxide semiconductor transistors)
+
+
+### **NMOS** --> N-type metal-oxide semiconductor
+ - Here’s how an NMOS transistor works. If there is a source of current connected to terminal S (source), and there’s a low voltage at the gate (G), current will not flow between source and drain (D). However, if sufficient voltage is applied to the gate, current will flow from source to drain.
+ - It’s just an electrically-controlled switch. Apply voltage to the gate, and it opens, letting current flow. Turn off the voltage to the gate, and it switches off.
+
+<img width="146" height="110" alt="image" src="https://github.com/user-attachments/assets/c6ffa529-fa1a-474a-8cea-4be5b1b98595" />
+
+### **PMOS** --> P-type metal-oxide semiconductor
+Here’s how a PMOS transistor works. If there is a source of current connected to terminal S (source), then if a low voltage is present at the gate (G), current will flow between source and drain (D). However, if sufficient voltage is applied to the gate, current will not flow from source to drain.
+
+Again, it’s just an electrically-controlled switch, but one that’s complementary to the NMOS type. Apply voltage to the gate, and it closes, and no current flows. Turn off the voltage to the gate, and it opens, letting current flow.
+
+<img width="167" height="119" alt="image" src="https://github.com/user-attachments/assets/34f838b4-c248-46e9-84cb-263a0a6c00c6" />
+
+
+
+
+### CMOS (CMOS = complementary metal-oxide semiconductor)
+You can see that these two types are complementary. Circuits constructed with these two types are called CMOS circuits (CMOS = complementary metal-oxide semiconductor).
+
+<img width="200" height="290" alt="image" src="https://github.com/user-attachments/assets/ce9cbdfc-00e7-47f0-8b6b-0d3aec75b764" />
+
+
+You may think of Vdd and the symbol to the right of it as a source for current and a drain or destination for current, respectively. **The black dot indicates a junction where wires are connected. If wires cross and there is no black dot (junction) then the wires are not connected.**
+
