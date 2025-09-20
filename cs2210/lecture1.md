@@ -1,6 +1,6 @@
 # [start-19sep](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/cs2210/cs2210home.md)
 ## MOS (metal-oxide semiconductor transistors)
-
+##### [The brightspace page](https://brightspace.uvm.edu/d2l/le/content/134185/viewContent/2426359/View)
 
 ### **NMOS** --> N-type metal-oxide semiconductor
  - Here’s how an NMOS transistor works. If there is a source of current connected to terminal S (source), and there’s a low voltage at the gate (G), current will not flow between source and drain (D). However, if sufficient voltage is applied to the gate, current will flow from source to drain.
