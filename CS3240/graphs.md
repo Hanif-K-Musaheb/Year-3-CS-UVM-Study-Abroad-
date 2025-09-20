@@ -68,3 +68,18 @@ BFS will let us color a graph naturally
  - color all adjacent nodes red
  - color each of the nodes adjacent to those nodes blue
 
+### Directed graphs
+#### Strong Connectivity 
+We say that a directed graph is strongly connected if:
+ - for every two nodes 𝑢 and 𝑣, there is a path from 𝑢 to 𝑣 and a path from 𝑣 to 𝑢
+ - so a directed graph is strongly connected if every pair of nodes is mutually reachable
+
+#### To check whether a graph 𝐺 is strongly connected:
+ - pick a node 𝑠 and run DFS or BFS in 𝐺
+ - then run DFS or BFS, again starting from 𝑠, in 𝐺𝑟𝑒𝑣
+ - if one of these two searches fails to reach every node, then 𝐺 is not strongly connected
+
+<img width="425" height="160" alt="image" src="https://github.com/user-attachments/assets/01d520eb-1924-4de1-be2c-cb44c6e0cffe" />
+
+
+
