@@ -10,7 +10,7 @@ A cycle is a path in which the first and last nodes are the same
 ### Tree
 An undirected graph G is a tree when:
  - it is connected
- - and it does not contain a cyc
+ - and it does not contain a cycle
      - given a tree having 𝑛 nodes, how many edges are there?
      - there are 𝑛 − 1 edges
   
@@ -53,6 +53,10 @@ A simple way to represent a graph
 - 𝐴 does not have to be symmetric
 
 <img width="700" height="290" alt="image" src="https://github.com/user-attachments/assets/3cd9e8b3-df65-4ec9-a827-cbb3eb310ecd" />
+
+| Advantages                                                                 | Disadvantages                                                                                                       |
+|----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| • We can check whether an edge (u, v) exists in **O(1)** time <br> • i.e., in constant time (independent of m or n) | • The representation takes **Θ(n²)** space <br> • When m = E ≪ n², most entries will be zero → very inefficient memory use <br> • For a given node u, examining all edges incident to u requires **O(n)** time in the worst case <br> • Realistically, each node u has only a small number of incident edges, so we might want a more efficient way to find them |
 
 
 
