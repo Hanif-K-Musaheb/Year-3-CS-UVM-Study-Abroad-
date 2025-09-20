@@ -59,5 +59,12 @@ A simple way to represent a graph
 | • We can check whether an edge (u, v) exists in **O(1)** time <br> • i.e., in constant time (independent of m or n) | • The representation takes **Θ(n²)** space <br> • When m = E ≪ n², most entries will be zero → very inefficient memory use <br> • For a given node u, examining all edges incident to u requires **O(n)** time in the worst case <br> • Realistically, each node u has only a small number of incident edges, so we might want a more efficient way to find them |
 
 
+### Bipartite Graph
+In a bipartite graph, the node set 𝑉 can be partitioned into sets 𝑋 and 𝑌 such that every edge has one end in 𝑋 and one end in 𝑌. A bipartite graph can not habr an odd cycle in it.
 
+##### BFS & Bipartite Graphs
+BFS will let us color a graph naturally
+ - color the initial node blue
+ - color all adjacent nodes red
+ - color each of the nodes adjacent to those nodes blue
 
