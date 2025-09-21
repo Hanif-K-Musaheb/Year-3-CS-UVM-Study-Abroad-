@@ -81,5 +81,60 @@ We say that a directed graph is strongly connected if:
 
 <img width="425" height="160" alt="image" src="https://github.com/user-attachments/assets/01d520eb-1924-4de1-be2c-cb44c6e0cffe" />
 
+#### Directed Acyclic Graphs (DAG)
+Fact: if an undirected graph has no cycles, then each of its connected components is a tree
+A directed graph that has no cycles is called a directed acyclic graph (DAG)
+- DAGs are common in computer science
+- they model dependency relationships
+
+#### Topological Ordering
+ - A way to order nodes in a DAG so that all edges go forward.
+ - Example: ordering courses so prerequisites are taken first.
+Theorem:
+ - If a graph has a topological ordering, it must be a DAG.
+ - Every DAG has at least one node with no incoming edges (a “starting task”).
+
+
+
+### Algorithms for Topological Ordering
+#### Basic Algorithm (O(n²))
+##### Idea: 
+Repeatedly find a node with no incoming edges, add it to the ordering, and remove it.
+##### Steps:
+1. Find a node with no incoming edges.
+2. Add it to the output list (this is the next in the order).
+3. Remove the node and all its outgoing edges from the graph.
+4. Repeat until all nodes are processed.
+##### Running time:
+ - Each step may require scanning all nodes to find one with no incoming edges.
+ - That makes it O(n²) in the worst case.
+ - When it works best: dense graphs (lots of edges)
+#### Refined Algorithm (Kahn’s Algorithm, O(m + n))
+##### **Goal**: 
+make the process more efficient by keeping track of "ready-to-remove" nodes dynamically.
+##### **Key ideas**:
+ - Maintain the number of active incoming edges for each node.
+ - Keep a set S of nodes that have zero incoming edges.
+##### Steps: 
+1. Initialize:
+   - Mark all nodes as active.
+   - Compute incoming edge counts for each node.
+   - Place all nodes with 0 incoming edges into set S.
+2. While S is not empty:
+   - Select a node v from S and add it to the topological order.
+   - Remove v from the graph (mark inactive).
+   - For each neighbor w of v:
+      - Reduce w’s incoming edge count by 1.
+      - If w now has 0 incoming edges, add it to S.
+3. Continue until all nodes are removed.
+###### Running time:
+ - Initialization = O(m + n) (scan through all nodes and edges once).
+ - Each edge is considered only once when we reduce counts.
+ - Total = O(m + n).
+###### Failure case:
+ - If the graph has a cycle, eventually S becomes empty while some nodes remain.
+ - This means no valid topological order exists.
+
+
 
 
