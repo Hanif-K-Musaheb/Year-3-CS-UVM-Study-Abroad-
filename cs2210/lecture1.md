@@ -26,3 +26,5 @@ You can see that these two types are complementary. Circuits constructed with th
 
 You may think of Vdd and the symbol to the right of it as a source for current and a drain or destination for current, respectively. **The black dot indicates a junction where wires are connected. If wires cross and there is no black dot (junction) then the wires are not connected.**
 
+
+
