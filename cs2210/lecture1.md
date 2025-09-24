@@ -26,5 +26,24 @@ You can see that these two types are complementary. Circuits constructed with th
 
 You may think of Vdd and the symbol to the right of it as a source for current and a drain or destination for current, respectively. **The black dot indicates a junction where wires are connected. If wires cross and there is no black dot (junction) then the wires are not connected.**
 
+----------------------------
+
+## Multiplexer
+A multiplexer (often shortened to MUX) is a digital circuit that selects one input from multiple input signals and forwards it to a single output line.
+##### Think of it like an electronic version of a railway switch:
+ - You have several "tracks" (inputs).
+ - A control signal (called the select line) decides which track is active.
+ - The chosen input is sent to the output, while all others are ignored.
+
+#### Key points:
+ - A multiplexer has 2ⁿ inputs, n select lines, and 1 output.
+ - **Example**: A 4-to-1 MUX has 4 inputs, 2 select lines, and 1 output.
+ - It’s essentially a data selector.
+
+#### Commonly used in:
+ - Communication systems (choosing between data sources).
+ - CPUs (selecting registers or memory locations).
+ - Logic circuit optimization.
+
 
 
