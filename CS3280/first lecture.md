@@ -112,4 +112,38 @@ Don’t blame people → design systems that anticipate human fallibility.
 ### Automation Paradox
  - Automation can reduce some errors but introduce new ones.
  - Over-reliance on automation can make users complacent or unprepared when manual intervention is needed.
+
+# 6th chapatar - Design Thinking
+### Core Idea
+This chapter explains how designers can systematically approach problem-solving, moving beyond intuition to structured processes. Norman emphasizes that successful design is not just about creativity but about finding the right problem to solve and iterating toward the best solution.
    
+### Key Points
+#### Solving the Correct Problem
+ - Many design failures come from rushing to solve a problem before truly understanding it.
+ - Good design starts with framing the problem properly through observation and research.
+#### The Double-Diamond Model of Design
+ - Developed by the British Design Council.
+ - Two phases of divergence and convergence:
+   - Diamond 1 → Explore widely to understand the problem, then narrow down to define it.
+   - Diamond 2 → Explore many possible solutions, then narrow down to the best one.
+
+#### The Human-Centered Design (HCD) Process
+A cycle of:
+ - **Observation** (watching real users in context).
+ - **Ideation** (generating ideas).
+ - **Prototyping** (building representations of solutions).
+ - **Testing** (with real users).
+ - **Iterative**: repeat and refine until solutions fit human needs.
+ - **Reality Check**: It Doesn’t Really Work That Way
+ - Norman notes that design in companies rarely follows neat processes.
+   - Constraints like time, budgets, schedules, and organizational politics force compromises.
+   - He humorously adds Norman’s Law: “The day the product team is announced, it is behind schedule and over its budget.”
+
+#### Complexity Is Good; Confusion Is Bad
+ - Complexity in products is inevitable as needs grow
+ - The real problem is poorly organized complexity, which causes confusion.
+ - Good design makes complex systems understandable and manageable.
+
+#### Standardization and Deliberate Difficulty
+ - Standards (like QWERTY keyboards or traffic signs) make systems usable across contexts.
+ - Sometimes things are deliberately made difficult for safety or control (e.g., childproof caps).
