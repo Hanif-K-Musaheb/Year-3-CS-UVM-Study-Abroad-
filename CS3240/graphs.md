@@ -271,6 +271,28 @@ public class TopologicalSortAdjacencyList {
 }
 ```
 
+# Graph Theory Quick Reference
+
+
+| Concept / Formula | Explanation |
+|---|---|
+| **Spanning tree** | A subgraph that contains all vertices, is connected, and has no cycles. |
+| `Edges in a tree` | For a tree with `n` vertices: `m = n - 1`. |
+| `Every connected graph has a spanning tree` | True — you can obtain one by deleting edges until no cycle remains while keeping the graph connected. |
+| `Cayley's formula` | Number of spanning trees in `K_n`: `n^(n-2)`. |
+| `Handshaking lemma` | Sum of degrees = `2m`. (i.e., `sum_{v in V} deg(v) = 2m`) |
+| `Average degree` | `d_avg = 2m / n`. |
+| `Max edges (simple graph)` | `m_max = n(n-1)/2` (complete graph `K_n`). |
+| `Edges in complete graph K_n` | `m = n(n-1)/2`. |
+| `Max edges (bipartite with parts n1,n2)` | `m_max = n1 * n2`. Over all partitions this ≤ `floor(n^2 / 4)`. |
+| `Min edges (connected graph)` | `m_min = n - 1` (a tree). |
+| `Cycle C_n` | `m = n`. |
+| `Path P_n` | `m = n - 1`. |
+| `Tree characterizations` | Equivalent: connected + acyclic; acyclic + m = n-1; connected + m = n-1; minimally connected. |
+| `Diameter` | Maximum shortest-path distance between any two vertices; for a tree it's the length of the longest simple path. |
+
+
+
 
 
 
