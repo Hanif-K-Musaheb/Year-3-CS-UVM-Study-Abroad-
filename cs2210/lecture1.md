@@ -45,5 +45,11 @@ A multiplexer (often shortened to MUX) is a digital circuit that selects one inp
  - CPUs (selecting registers or memory locations).
  - Logic circuit optimization.
 
+-----------------------
+## Decoder
+to fill
+
+## 
+
 
 
