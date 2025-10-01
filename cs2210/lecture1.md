@@ -47,9 +47,26 @@ A multiplexer (often shortened to MUX) is a digital circuit that selects one inp
 
 -----------------------
 ## Decoder
-to fill
+<img width="500" height="270" alt="image" src="https://github.com/user-attachments/assets/d9ff975d-35af-4e5c-9d7d-af59ffe5a54f" />
 
-## 
+#### Key Points
+
+- **Inputs**: `n` binary signals  
+- **Outputs**: `2^n` possible lines  
+- For each input combination, only **one output** is active (`1`), while all others remain `0`  
+- Often used with **enable inputs** to control whether the decoder is active  
+
+## Encoder
+basically the opposite
+
+#### Key Points
+
+- **Inputs**: `2^n` lines (only one active at a time, i.e., one-hot)  
+- **Outputs**: `n` binary signals  
+- Produces a binary code corresponding to the active input line  
+- Often includes a **priority encoder** feature to handle multiple active inputs  
+
+## SR latch
 
 
 
