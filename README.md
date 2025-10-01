@@ -7,6 +7,7 @@
 ## To Do:
 - [ ] contact adviser of studies for info about interships
 - [ ] exam wednesday for cs organistion
+- [ ] do the hacker rank thing for jpmorgan
 
 
 
