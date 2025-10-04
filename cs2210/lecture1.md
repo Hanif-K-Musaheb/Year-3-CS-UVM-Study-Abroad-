@@ -1,4 +1,4 @@
-# [start-19sep](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/cs2210/cs2210home.md)
+# [Logic Gates](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/cs2210/cs2210home.md)
 ## MOS (metal-oxide semiconductor transistors)
 ##### [The brightspace page](https://brightspace.uvm.edu/d2l/le/content/134185/viewContent/2426359/View)
 
