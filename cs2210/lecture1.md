@@ -44,6 +44,7 @@ A multiplexer (often shortened to MUX) is a digital circuit that selects one inp
  - Communication systems (choosing between data sources).
  - CPUs (selecting registers or memory locations).
  - Logic circuit optimization.
+ - Converts pressed keys (many possible inputs) into binary codes.
 
 -----------------------
 ## Decoder
@@ -64,9 +65,38 @@ basically the opposite
 - **Inputs**: `2^n` lines (only one active at a time, i.e., one-hot)  
 - **Outputs**: `n` binary signals  
 - Produces a binary code corresponding to the active input line  
-- Often includes a **priority encoder** feature to handle multiple active inputs  
+- Often includes a **priority encoder** feature to handle multiple active inputs
+  
+#### applications
 
+ - Memory Address Decoding
+ - Converts binary-coded inputs (like 0001 = 1) to appropriate display signals.
+ - Helps in selecting which data line or channel should be active.
+
+Used in RAM and ROM to select a specific memory location.
+---------------------
 ## SR latch
+---------------------
+## Sequential and Combinational Circuits
+### Combinational Circuits
+**Definition**:
+ - A combinational circuit is a type of digital circuit in which the output depends only on the present inputs — not on any previous inputs or states.
+ - No memory is involved.
+### Sequential Circuits
+**Definition**:
+ - A sequential circuit is a digital circuit in which the output depends on both present inputs and past states (previous inputs).
+
+### Summary:
+| **Aspect**     | **Combinational Circuit** | **Sequential Circuit**             |
+| -------------- | ------------------------- | ---------------------------------- |
+| **Depends on** | Present inputs only       | Present inputs + past states       |
+| **Memory**     | No                        | Yes                                |
+| **Clock**      | Not required              | Usually required                   |
+| **Feedback**   | None                      | Has feedback paths                 |
+| **Speed**      | Generally faster          | Generally slower (due to clocking) |
+| **Examples**   | Adder, MUX, Decoder       | Flip-flop, Counter, Register       |
+
+
 
 
 
