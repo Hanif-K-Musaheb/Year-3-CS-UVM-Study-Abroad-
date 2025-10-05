@@ -145,4 +145,11 @@ The D latch is a modified SR latch designed to eliminate the invalid condition (
 | Use                       | Basic memory, logic circuits | Data storage, registers |
 | Output follows input when | S or R active                | Enable = 1              |
 
+### Flip Flop
+A flip-flop is a sequential circuit that can store one bit of data (0 or 1).
+It is similar to a latch, but with one key difference:
+
+ - A latch is **level-triggered** (works whenever the enable is active).
+ - A flip-flop is **edge-triggered** (changes only at the rising or falling edge of a clock pulse).
+
 
