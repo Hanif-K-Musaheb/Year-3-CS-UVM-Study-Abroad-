@@ -75,8 +75,8 @@ basically the opposite
 
 Used in RAM and ROM to select a specific memory location.
 ---------------------
-## SR latch
----------------------
+
+
 ## Sequential and Combinational Circuits
 ### Combinational Circuits
 **Definition**:
@@ -96,7 +96,53 @@ Used in RAM and ROM to select a specific memory location.
 | **Speed**      | Generally faster          | Generally slower (due to clocking) |
 | **Examples**   | Adder, MUX, Decoder       | Flip-flop, Counter, Register       |
 
+-------------------
+## SR latch
+#### Inputs:
+ - S = Set
+ - R = Reset
+
+#### Outputs:
+ - Q (main output)
+ - Q′ (complement of Q)
+
+#### Truth Table
+| **S** | **R** | **Q (next)** | **Description**                      |
+| ----- | ----- | ------------ | ------------------------------------ |
+| 0     | 0     | No change    | Memory (holds previous state)        |
+| 0     | 1     | 0            | Reset (forces output to 0)           |
+| 1     | 0     | 1            | Set (forces output to 1)             |
+| 1     | 1     | Invalid      | Both outputs become 0 — not allowed! |
 
 
+### Types of SR Latches
+#### NOR-based SR latch
+Active HIGH inputs (S=1, R=1 means active)
+#### NAND-based SR latch
+Active LOW inputs (S=0, R=0 means active)
+
+
+## D Latch (Data or Delay Latch)
+The D latch is a modified SR latch designed to eliminate the invalid condition (S=R=1).
+
+### Inputs:
+ - D = Data input
+ - EN (or CLK) = Enable signal
+
+| **EN (Enable)** | **D** | **Q (next)** | **Description**                            |
+| --------------- | ----- | ------------ | ------------------------------------------ |
+| 0               | X     | No change    | Latch is **closed** (holds previous state) |
+| 1               | 0     | 0            | Output follows input (transparent)         |
+| 1               | 1     | 1            | Output follows input (transparent)         |
+
+
+### SR v D latches
+| Feature                   | **SR Latch**                 | **D Latch**             |
+| ------------------------- | ---------------------------- | ----------------------- |
+| Inputs                    | Set (S), Reset (R)           | Data (D)                |
+| Invalid state             | Yes (S=R=1)                  | No                      |
+| Simplicity                | More complex                 | Simpler                 |
+| Use                       | Basic memory, logic circuits | Data storage, registers |
+| Output follows input when | S or R active                | Enable = 1              |
 
 
