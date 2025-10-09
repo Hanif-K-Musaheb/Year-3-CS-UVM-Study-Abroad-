@@ -10,7 +10,6 @@
 Not just after coding — test during development.
  - **Test-Driven Development (TDD)**:
      - Write tests before writing code.
-     - Use frameworks like JUnit.
      - Enables independent code and test creation.
  - **Types of Testing**:
      - **Black-box** (tester doesn’t know internal design).
