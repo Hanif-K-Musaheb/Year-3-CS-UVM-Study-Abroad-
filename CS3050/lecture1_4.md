@@ -5,6 +5,13 @@
  - **Functional requirements** – what the program does (e.g., search for a recipe).
  - **Nonfunctional requirements** – how it works (usability, speed, security, readability).
 
+#### Design
+
+ - Plan structure before coding:
+   - Define **class design** (e.g., Recipe, Ingredient).
+   - Define **database schema** if applicable.
+   - Focus on **architecture**, **not** syntax.
+
 #### Testing
 
 Not just after coding — test during development.
