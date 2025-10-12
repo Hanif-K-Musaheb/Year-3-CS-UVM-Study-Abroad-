@@ -32,3 +32,13 @@ Basic description: the development team glues together things they already have 
 It's great for development teams that need to quickly and repeatedly build similar systems
  - **example**: custom scheduling systems for auto-repair businesses or for medical practices
 
+### The need for a design process 
+1. **Organization and Control** - A process provides a roadmap that helps teams plan, coordinate, and manage complex work effectively.
+2. **Predictability** - Enables better estimation of time, cost, and resource needed for a project
+3. **Quality Assurance** - Structured processes include checks and reviews to reduce defects and improve reliability.
+4. **Communication** - Establishes a common framework for developers, clients, and stakeholders to understand progress and expectations.
+5. **Risk Management** - Helps identify and address potential issues early in development.
+6. **Consistency and Repeatability** - Allows teams to replicate success and apply proven practices across multiple projects.
+7. **Adaptability** - Processes (especially Agile) allow teams to adapt to changing requirements and environments.
+8. **Customer Satisfaction** - A well-managed process ensures that software aligns with user needs, improving satisfaction and trust.
+
