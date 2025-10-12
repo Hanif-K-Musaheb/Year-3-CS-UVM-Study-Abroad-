@@ -22,3 +22,16 @@
 * the two main development processes: waterfall, iterative
     - [ ] characteristics of each
     - [ ] advantages and disadvantages of each
+    - [ ] how the different aspects of each process are manifested in the software created by
+    that process
+    - [ ] the different kinds of systems each is suited for
+* the four main phases of software engineering: specification, design/development,
+validation, evolution
+- [ ] the activities that each phase consists of
+- [ ] the goals of each phase
+- [ ] how each phase is mapped to specific actions in waterfall or iterative processes
+* requirements
+- [ ] what they are
+- [ ] the two broad classes: functional vs. nonfunctional
+- [ ] processes for gathering requirements, and the advantages/disadvantages of these
+processes
