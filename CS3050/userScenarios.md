@@ -6,7 +6,8 @@ A user scenario is a narrative or story that describes how a particular user (or
 - **What** they want to do?
 - **Why** they want to do it?
 - **How** they interact with the system to achieve it?
-- 
+
+  
 | **Stage**                    | **How Scenarios Are Used**                                               |
 | ---------------------------- | ------------------------------------------------------------------------ |
 | **Requirements Analysis**    | To define user needs and functional requirements clearly                 |
