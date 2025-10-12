@@ -19,13 +19,13 @@
     - [x] the need for a process (why?)
 * user scenarios
     - [x] what they are
-    - [ ] how and when they can be used
+    - [x] how and when they can be used
 * the two main development processes: waterfall, iterative
-    - [ ] characteristics of each
-    - [ ] advantages and disadvantages of each
-    - [ ] how the different aspects of each process are manifested in the software created by
+    - [x] characteristics of each
+    - [x] advantages and disadvantages of each
+    - [x] how the different aspects of each process are manifested in the software created by
     that process
-    - [ ] the different kinds of systems each is suited for
+    - [x] the different kinds of systems each is suited for
 * the four main phases of software engineering: specification, design/development,
 validation, evolution
     - [ ] the activities that each phase consists of
