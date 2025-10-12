@@ -9,13 +9,13 @@
 
 ### Topics in review for midterm
 * general characteristics of software
-    - [ ] characteristics of users
-    - [ ] how users use a particular software application—what they hope to accomplish
-    - [ ] implications of failure
-    - [ ] risk of failure, and how to reduce the risk of failure
+    - [x] characteristics of users
+    - [x] how users use a particular software application—what they hope to accomplish
+    - [x] implications of failure
+    - [x] risk of failure, and how to reduce the risk of failure
 * software development processes
-    - [ ] characteristics of a process
-    - [ ] the need for a process (why?)
+    - [x] characteristics of a process
+    - [x] the need for a process (why?)
 * user scenarios
     - [ ] what they are
     - [ ] how and when they can be used
@@ -27,11 +27,11 @@
     - [ ] the different kinds of systems each is suited for
 * the four main phases of software engineering: specification, design/development,
 validation, evolution
-- [ ] the activities that each phase consists of
-- [ ] the goals of each phase
-- [ ] how each phase is mapped to specific actions in waterfall or iterative processes
+    - [ ] the activities that each phase consists of
+    - [ ] the goals of each phase
+    - [ ] how each phase is mapped to specific actions in waterfall or iterative processes
 * requirements
-- [ ] what they are
-- [ ] the two broad classes: functional vs. nonfunctional
-- [ ] processes for gathering requirements, and the advantages/disadvantages of these
+    - [ ] what they are
+    - [ ] the two broad classes: functional vs. nonfunctional
+    - [ ] processes for gathering requirements, and the advantages/disadvantages of these
 processes
