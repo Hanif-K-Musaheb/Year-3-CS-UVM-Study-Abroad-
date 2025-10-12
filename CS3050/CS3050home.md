@@ -18,7 +18,7 @@
     - [x] characteristics of a process
     - [x] the need for a process (why?)
 * user scenarios
-    - [ ] what they are
+    - [x] what they are
     - [ ] how and when they can be used
 * the two main development processes: waterfall, iterative
     - [ ] characteristics of each
