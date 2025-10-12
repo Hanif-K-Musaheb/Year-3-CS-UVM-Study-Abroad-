@@ -28,9 +28,9 @@
     - [x] the different kinds of systems each is suited for
 * the four main phases of software engineering: specification, design/development,
 validation, evolution
-    - [ ] the activities that each phase consists of
-    - [ ] the goals of each phase
-    - [ ] how each phase is mapped to specific actions in waterfall or iterative processes
+    - [x] the activities that each phase consists of
+    - [x] the goals of each phase
+    - [x] how each phase is mapped to specific actions in waterfall or iterative processes
 * requirements
     - [ ] what they are
     - [ ] the two broad classes: functional vs. nonfunctional
