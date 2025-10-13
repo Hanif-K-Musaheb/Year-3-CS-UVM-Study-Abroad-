@@ -24,3 +24,29 @@ These describe how the system performs its functions — focusing on **performan
 - **Security** (data protection)
 - **Maintainability** (ease of modification)
 - **Portability** (works on multiple platforms)
+
+
+### Processes for Gathering Requirements
+The process of collecting, understanding, and documenting requirements is called Requirements Elicitation (or Requirements Gathering).
+It involves interacting with stakeholders to discover what they need.
+
+##### Requirement Gathering Methods
+| **Method**                        | **Description**                                                           | **Advantages**                                                    | **Disadvantages**                                                            |
+| --------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Interviews**                    | One-on-one or small-group discussions with stakeholders to uncover needs. | Deep insight; personal interaction; clarifies misunderstandings.  | Time-consuming; depends on communication skills; may miss conflicting views. |
+| **Questionnaires / Surveys**      | Written questions distributed to a large number of users.                 | Efficient for large audiences; easy to analyze quantitatively.    | Limited depth; responses may lack context or detail.                         |
+| **Workshops / Focus Groups**      | Structured group meetings to brainstorm and discuss requirements.         | Encourages collaboration; identifies conflicts early.             | Can be hard to manage; dominant personalities may skew results.              |
+| **Observation (Job Shadowing)**   | Watching users perform their tasks in real environments.                  | Reveals real workflows and hidden needs; captures context.        | Time-consuming; may make users self-conscious or alter behavior.             |
+| **Document Analysis**             | Reviewing existing system documents, policies, or reports.                | Good for background information; helps understand legacy systems. | Might be outdated or incomplete; lacks direct user input.                    |
+| **Prototyping**                   | Building a sample or mock-up of the system to gather feedback.            | Users visualize system early; clarifies vague requirements.       | Can create unrealistic expectations if treated as a finished product.        |
+| **Brainstorming / Storyboarding** | Generating ideas quickly through group creativity sessions.               | Stimulates innovation; identifies diverse needs.                  | Requires skilled facilitation; can lack focus if unstructured.               |
+
+
+
+### Best Practices for Gathering Requirements
+
+ - Involve all key stakeholders early and often.
+ - Use multiple methods — no single technique captures everything.
+ - Maintain clear, testable, and prioritized requirements.
+ - Review and validate requirements with users regularly.
+ - Document requirements in a Software Requirements Specification (SRS).
