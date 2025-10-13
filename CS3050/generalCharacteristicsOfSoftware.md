@@ -19,6 +19,8 @@
 
 ### Implications of Failure
 (the consequences of software failing)
+|failure|descript|
+|--|--|
 |**Minor inconvenience**|a mobile game crashes occasionally.|
 |**Operational disruption**|accounting software loses data, halting business operations.|
 |**Safety or security risk**|failure in medical, transportation, or defense systems could lead to injury or death.|
