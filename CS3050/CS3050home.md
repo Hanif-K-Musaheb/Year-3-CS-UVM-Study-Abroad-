@@ -33,7 +33,7 @@ validation, evolution
     - [x] the goals of each phase
     - [x] how each phase is mapped to specific actions in waterfall or iterative processes
 * requirements
-    - [ ] what they are
-    - [ ] the two broad classes: functional vs. nonfunctional
-    - [ ] processes for gathering requirements, and the advantages/disadvantages of these
+    - [x] what they are
+    - [x] the two broad classes: functional vs. nonfunctional
+    - [x] processes for gathering requirements, and the advantages/disadvantages of these
 processes
