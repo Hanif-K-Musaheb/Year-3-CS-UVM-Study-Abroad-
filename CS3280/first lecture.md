@@ -147,3 +147,7 @@ A cycle of:
 #### Standardization and Deliberate Difficulty
  - Standards (like QWERTY keyboards or traffic signs) make systems usable across contexts.
  - Sometimes things are deliberately made difficult for safety or control (e.g., childproof caps).
+
+# 14 oct
+## Ideation
+### fidelity
