@@ -8,3 +8,4 @@
 #### [General Characteristics of Software](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/generalCharacteristicsOfSoftware.md)
 #### [User Senarios](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/userScenarios.md)
 #### [Requirements](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/requirements.md)
+#### [Agile](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/developmentStratagies.md) 
