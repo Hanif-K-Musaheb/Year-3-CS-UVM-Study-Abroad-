@@ -5,9 +5,12 @@
 ### [CS 3050 -- software engineering](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/CS3050home.md)
 ### [CS 3280 -- HCI](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3280/cs3280.md)
 ## To Do:
+- [ ] homework for HCI 16th
+- [ ] homework for Algs 18th
+- [ ] homework for software 19th
+
 - [ ] contact adviser of studies for info about interships
-- [ ] exam wednesday for cs organistion
-- [ ] do the hacker rank thing for jpmorgan
+
 
 
 
