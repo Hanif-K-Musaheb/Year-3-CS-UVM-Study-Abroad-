@@ -8,7 +8,7 @@
 - [x] homework for HCI 16th
 - [ ] homework for Algs 18th
 - [ ] homework for software 19th
-- [ ] homework 3 for org arch today tmr
+- [ ] homework 3 for org arch will be published today tmr
 
 - [ ] contact adviser of studies for info about interships
 
