@@ -7,7 +7,7 @@
 ## To Do:
 - [x] homework for HCI 16th
 - [x] homework for Algs 18th
-  - [ ] take photo and submit
+  - [x] take photo and submit
 - [ ] homework for software 19th
   - [ ] sprint 1b figure what is left to implement for the first sprint --> leader board
   - [ ] sprint 1c submit a document that decribes whats going well **on sunday**
