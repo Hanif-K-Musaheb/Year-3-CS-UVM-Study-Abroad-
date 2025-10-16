@@ -6,7 +6,8 @@
 ### [CS 3280 -- HCI](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3280/cs3280.md)
 ## To Do:
 - [x] homework for HCI 16th
-- [ ] homework for Algs 18th
+- [x] homework for Algs 18th
+  - [ ] take photo and submit
 - [ ] homework for software 19th
   - [ ] sprint 1b figure what is left to implement for the first sprint --> leader board
   - [ ] sprint 1c submit a document that decribes whats going well **on sunday**
