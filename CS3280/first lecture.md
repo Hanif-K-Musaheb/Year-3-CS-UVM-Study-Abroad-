@@ -151,3 +151,8 @@ A cycle of:
 # 14 oct
 ## Ideation
 ### fidelity
+
+# 16 oct
+### human factors
+focuses more on engineering
+### sensors
