@@ -8,9 +8,9 @@
 - [x] homework for HCI 16th
 - [x] homework for Algs 18th
   - [x] take photo and submit
-- [ ] homework for software 19th
+- [x] homework for software 19th
   - [x] sprint 1b figure what is left to implement for the first sprint --> leader board
-  - [ ] sprint 1c submit a document that decribes whats going well **on sunday**
+  - [x] sprint 1c submit a document that decribes whats going well **on sunday**
 - [ ] homework 3 for org arch will be published today tmr
 
 - [ ] contact adviser of studies for info about interships
