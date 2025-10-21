@@ -156,3 +156,6 @@ A cycle of:
 ### human factors
 focuses more on engineering
 ### sensors
+
+# 21 oct
+### 
