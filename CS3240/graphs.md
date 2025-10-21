@@ -1,4 +1,22 @@
 # [Graphs](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3240/cs3240.md)
+## Algorithm analysis
+Lecture 2 basics of algorithm complexity
+#### preliminaries
+All stuff covered throughly in previous years
+#### Details
+ - we'll divide the world into problems for which there is a polynomial-time algorithm
+ - and problems for which there is NO polynomial-time algorithm
+ - and we'll call these efficient vs. non-efficient algorithms
+ - and tractable vs. intractable problems
+### Asymptotic Upper Bounds
+#### Basic idea
+ - we want to bound the runtime of an algorithm by some simple function of 𝑛 (the problem size)
+#### Definition:
+ - let 𝑇 𝑛 be a function—say the worst-case runtime of a certain algorithm on an input of size 𝑛
+ - in these discussions, we'll assume that all of these functions have nonnegative values
+ - then, given another function 𝑓(𝑛), we say that 𝑇(𝑛) is 𝒪(𝑓 𝑛 ) if, for sufficiently large 𝑛, 𝑇 𝑛 is bounded above by a constant multiple of 𝑓(𝑛)
+ - read this as “𝑇(𝑛) is order 𝑓(𝑛)
+---------------------------------
 ### Dependency Network
 ### Path
 We say there is a path in an undirected graph 𝐺 from 𝑣𝑗 to 𝑣𝑘 when:
