@@ -16,6 +16,9 @@ A recurrence relation expresses the **running time of an algorithm** (or some qu
 > “The total cost = cost of dividing + cost of solving subproblems + cost of combining.”
 
 
+```T(n)=aT(n/b​)+f(n)```
+
+
 | Symbol   | Meaning                                                      |
 | :------- | :----------------------------------------------------------- |
 | ( T(n) ) | time to solve a problem of size ( n )                        |
