@@ -1,4 +1,12 @@
 # [Graphs](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3240/cs3240.md)
+Graphs: definitions, characteristics
+- [x] paths and cycles
+- [x] directed vs. undirected
+- [x] connectedness; connected components (of an undirected graph)
+- [x] strongly connected components (of a directed graph)
+- [x] BFS and DFS traversal; tracing the algorithms
+- [x] bipartite graphs: definition; determining bipartiteness
+- [x] topological ordering of directed graphs: definition, implications, algorithm
 ## Algorithm analysis
 Lecture 2 basics of algorithm complexity
 #### preliminaries
