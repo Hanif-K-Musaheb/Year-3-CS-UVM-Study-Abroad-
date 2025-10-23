@@ -7,6 +7,8 @@
 ## To Do:
 
 - [ ] [hand in organistion hw **friday 24 oct**](https://www.gradescope.com/courses/1117826?submit_assignment_id=7027245)
+- [ ] ask raj for help
+- [ ] see what derek somerville comes back with
 
 
 
