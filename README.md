@@ -6,9 +6,7 @@
 ### [CS 3280 -- HCI](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3280/cs3280.md)
 ## To Do:
 
-- [ ] [hand in organistion hw **friday 24 oct**](https://www.gradescope.com/courses/1117826?submit_assignment_id=7027245)
 - [ ] ask raj for help
-- [x] see what derek somerville comes back with
 - [ ] do monzo hacker rank
 - [ ] call back immunization place to know why account is on hold
 
