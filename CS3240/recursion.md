@@ -1,12 +1,13 @@
 # [Divide and tackle](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3240/cs3240.md)
 
 ##### Divide and tackle
-- [ ] (come back to) recurrence relations: understanding a recurrence relation; being able to write a
+- [x] (come back to) recurrence relations: understanding a recurrence relation; being able to write a
 recurrence relation given the description of a divide-and-tackle algorithm
-- [ ] unrolling trees: drawing an unrolling tree; showing the total work at each level
-- [ ] steps involved in showing a bound for T(n) using an unrolling tree
-- [ ] ~~graduate students: be able to set up and complete a proof by induction for a simple
-recurrence relation~~
+- [x] unrolling trees: drawing an unrolling tree; showing the total work at each level
+- [x] steps involved in showing a bound for T(n) using an unrolling tree
+- [x] ~~graduate students: be able to set up and complete a proof by induction for a simplerecurrence relation~~
+- [ ] figure out the induction part of intuition
+
 ### counting inversions
 
 
@@ -48,6 +49,7 @@ So we can write:
 1. **unrolling:** analyzing the first few levels of the algorithm --> then identifying a pattern --> then summing up through all the levels
     - you use this method to find the recurance relation doing it to each level 
 3. **intuition:** starting with a guess for the solution --> substituting it in --> proving via induction that it is correct
+
 
 
 
