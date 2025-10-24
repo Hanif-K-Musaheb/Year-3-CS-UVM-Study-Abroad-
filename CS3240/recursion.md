@@ -13,11 +13,28 @@ recurrence relation~~
 
 # Recurrance relation
 A recurrence relation expresses the **running time of an algorithm** (or some quantity) in terms of **smaller instances of the same problem**.
-> “The total cost = cost of dividing + cost of solving subproblems + cost of combining.”
 
 
-```T(n)=aT(n/b​)+f(n)```
+### definitions
+ - **base case:** the point at which the recursion stops
 
+##### formula specific to merge
+Let’s say:
+```T(n)``` = the time it takes to sort a list of size 
+
+
+###### In Merge Sort:
+1. You **divide** the list into 2 halves → takes some time proportional to ```n```
+1. You **sort** each half → each half takes ```T(n/2)```
+1. You **merge** the two halves → again takes time proportional to ```n```
+
+So we can write:
+```T(n)=2T(n/2)+cn```
+> the cn is coming from what ever the time to divide + the time to merge is which is unknown 
+   
+##### General formula meanings
+
+> ```T(n)=aT(n/b​)+f(n)```
 
 | Symbol   | Meaning                                                      |
 | :------- | :----------------------------------------------------------- |
@@ -25,3 +42,13 @@ A recurrence relation expresses the **running time of an algorithm** (or some qu
 | ( a )    | number of subproblems                                        |
 | ( n/b )  | size of each subproblem                                      |
 | ( f(n) ) | cost outside of the recursive calls (divide + combine steps) |
+
+
+## Goal
+1. **unrolling:** analyzing the first few levels of the algorithm --> then identifying a pattern --> then summing up through all the levels
+    - you use this method to find the recurance relation doing it to each level 
+3. **intuition:** starting with a guess for the solution --> substituting it in --> proving via induction that it is correct
+
+
+
+
