@@ -11,7 +11,7 @@
 - [x] see what derek somerville comes back with
 - [ ] do monzo hacker rank
 - [ ] call back immunization place to know why account is on hold
-- [ ] 
+
 
 
 
