@@ -7,7 +7,6 @@
 ## To Do:
 
 - [ ] ask raj for help
-- [ ] do monzo hacker rank
 - [ ] call back immunization place to know why account is on hold
 
 
