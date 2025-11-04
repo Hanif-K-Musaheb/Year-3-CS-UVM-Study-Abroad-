@@ -6,11 +6,6 @@
 ### [CS 3280 -- HCI](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3280/cs3280.md)
 ## To Do:
 
-- [ ] ask raj for help
-- [ ] call back immunization place to know why account is on hold
-
-
-
 
 
 
