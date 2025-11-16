@@ -1,4 +1,13 @@
 # [Constraints, discoverability, and feedback](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3280/cs3280.md)
+> Summary
+
+| Constraint Type | Based On             | Example                        | Use in Design             |
+| --------------- | -------------------- | ------------------------------ | ------------------------- |
+| **Physical**    | Physical limitations | USB plug fits one way          | Prevent invalid actions   |
+| **Cultural**    | Social conventions   | Red = stop                     | Use familiar symbols      |
+| **Semantic**    | Meaning/context      | Email field must contain email | Make action “make sense”  |
+| **Logical**     | Reason/deduction     | Only one knob left             | Sequence and dependencies |
+
 ## Four types of constraints
 ### Physical Constraints
  - Physical constraints limit actions based on the laws of physics, shape, size, and structure.
