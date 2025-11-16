@@ -1,4 +1,12 @@
 # [The Psychology Everyday Actions](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3280/cs3280.md)
+> summary
+
+| Concept Group                  | Items                                                                                                   | Purpose       |                         
+| ------------------------------ | ------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| **Seven Stages of Action**     | Goal, Plan, Specify, Perform, Perceive, Interpret, Compare                                              | Model of user action & evaluation   |
+| **Three Levels of Processing** | Visceral, Behavioral, Reflective                                                                        | Explains emotional + cognitive responses |
+| **Seven Principles of Design** | Discoverability, Feedback, Conceptual Models, Affordances/Signifiers, Constraints, Mapping, Consistency | Core rules for intuitive design    |
+
 
 ## The gulfs of execution and evaluation
 ###### Definition:
@@ -46,5 +54,24 @@
 
 
 ## Three levels of processing for human cognition
-## Reflective, behavioral, visceral
-## Norman’s seven fundamental principles of design
+#### Visceral Level – Automatic, unconscious, instinctive
+ - Fast, immediate reactions
+ - Based on appearance, feel, sound
+ - “First impressions”
+ - We like or dislike something instantly
+
+###### Examples:
+ - A beautifully designed device that feels premium
+ - A loud alarm sound that startles you
+ - Seeing a red button and feeling urgency
+   
+#### Behavioral Level – Learned, skilled, routine actions
+ - Everyday actions we learn through practice
+ - Concerned with usability and function
+ - “How easy is it to use?”
+###### Examples:
+ - Typing on a keyboard
+ - Steering a car
+ - Using a familiar app
+
+
