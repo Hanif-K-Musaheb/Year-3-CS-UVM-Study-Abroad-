@@ -47,3 +47,12 @@ It describes a complete process from understanding a problem to delivering a sol
  - **External** Standardization --> Consistency with _industry_ or platform norms.
 
 
+### summary
+| Concept              | Meaning                                           | Why It Matters                                        |
+| -------------------- | ------------------------------------------------- | ----------------------------------------------------- |
+| **Double Diamond**   | 4-stage model: Discover, Define, Develop, Deliver | Ensures deep understanding and good solutions         |
+| **Iterative Design** | Cycle of design → test → refine                   | Improves usability through continuous improvement     |
+| **Standardization**  | Consistent patterns and conventions               | Improves learnability, efficiency, and reduces errors |
+
+
+
