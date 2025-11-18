@@ -17,7 +17,7 @@
 |------------|-----------|
 |Command-Line Interface (CLI)|already know|
 |Graphical User Interface (GUI)|"|
-|Form Fill-in Interfaces||
+|Form Fill-in Interfaces|"|
 |Menu-Based Interfaces|Users choose from structured options, Reduces memory load, **Example**: ATM menu, settings menu|
 |Touch Interfaces|already know|
 | AR/VR|"|
@@ -27,4 +27,4 @@
 - **Conversing** User interacts through dialogue.
 - **Manipulating** (Direct Manipulation) User interacts with objects on screen as if they are real.
 - **Navigating** User moves through information spaces. --> Example: web browsing, file explorer
-- 
+
