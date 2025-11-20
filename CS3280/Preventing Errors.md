@@ -64,7 +64,7 @@ Forgetting to perform an action or losing track of where you are in a sequence.
 ## Mistakes (Rule-based, knowledge-based, memory-lapse)
 > **Mistakes** – Wrong goal or plan in the first place
 
-#### Rule-Based Mistakes
+## Rule-Based Mistakes
 User chooses the wrong rule or guideline to apply.
 ##### Examples:
  - Selecting the wrong formula in Excel
