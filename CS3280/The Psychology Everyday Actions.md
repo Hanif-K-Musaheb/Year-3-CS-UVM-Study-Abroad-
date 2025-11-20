@@ -73,5 +73,19 @@
  - Typing on a keyboard
  - Steering a car
  - Using a familiar app
+   
+
+#### Reflective Level – Conscious thought, reasoning, meaning
+- Slower, deeper thinking
+- Reflection, understanding, values, memories
+- “What does this product say about me?”
+- Long-term satisfaction
+
+###### Examples:
+- Buying an expensive watch for symbolic meaning
+- Choosing a brand for identity
+- Thinking about whether you like a product after using it
+
+>**Design implication**: Branding, meaning, long-term relationships with product
 
 
