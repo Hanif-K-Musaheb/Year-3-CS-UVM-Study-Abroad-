@@ -12,6 +12,7 @@
 
 ## Knowledge in the Head vs. Knowledge in the World
 This is information the user must remember or have stored internally (in memory).
+
 **Pros**:
  - Fast once learned (expert performance)
  - Doesn’t depend on external help
