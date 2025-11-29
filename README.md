@@ -10,7 +10,7 @@
 |----|----|----|
 |software|3/12/25|in class, 15%|
 |organistion|-|hasnt released the topic review or any other supporting document like he did last time bc i think i dont need to start revising yet
-|||
+|algos|-|15%|
 
 
 
