@@ -1,6 +1,9 @@
 # [3050 software engineering](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/README.md)
 >[topic review for second exam](https://brightspace.uvm.edu/d2l/le/content/125066/viewContent/2477779/View)
 
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/6d5b302c-4974-4689-affc-c7eca58f10de" />
+
+
 
 write blueberry in the exam
 
