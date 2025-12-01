@@ -26,7 +26,7 @@ write blueberry in the exam
 - goals of detailed design
 - cohesion and coupling in a design or in an implementation
 - implications of coupling/cohesion and high/low fan-in/fan-out
-#### (3) Code inspection — given a block of Python code:
+#### (3) [Code inspection — given a block of Python code:](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/codeInspection.md)
 - be able to examine the code and describe what it’s doing
 - be able to suggest changes to the code and how each change improves the code
 #### (4) Measurements and process models
