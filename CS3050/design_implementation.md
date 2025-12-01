@@ -20,13 +20,51 @@
 ### Characteristics of an Implementation
 |Charactaristic|Descript|
 |--------------|--------|
-|Correctness|-|
+|Correctness|above|
 |Readability|Code should be easy to understand (clear names, consistent formatting).|
 |Reliability|Code should run without frequent failures.|
-|Efficiency|-|
+|Efficiency|above|
 |Testability|Code must be structured so tests can be created and executed easily.|
-|Maintainability|-|
+|Maintainability|above|
 |Robustness|Handles errors and unexpected input safely.|
+
+### Goals of Detailed Design
+
+- **Specify internal logic of modules**--- Algorithms, data structures, control flow.
+- **Define interfaces precisely** ---Parameters, return types, inputs/outputs.
+- **Ensure high cohesion** ---Each module focuses on one purpose.
+- **Ensure low coupling** ---Modules depend on each other as little as possible.
+- **Prepare modules for coding** ---Design should be so clear that programmers can directly implement it.
+- **Support testability** ---Design should make unit testing straightforward.
+- **Support maintainability** ---Structure should be easy to modify later.
+
+### Cohesion
+> how well the functions within a single module relate to each other
+
+##### High cohesion (GOOD)
+ - Module has one clear responsibility.
+ - Functions are strongly related.
+ - Example: A "FileParser" module only parses files.
+
+##### Low cohesion (BAD)
+ - Module does many unrelated tasks.
+ - Hard to maintain or understand.
+ - Example: A "Utilities" module doing database access + string formatting + logging.
+
+##### Effects
+|Effects of High Cohesion|Effects of Low Cohesion|
+|-----|-----|
+Easier to maintain|Harder to understand
+Easier to test|Error-prone
+More reliable and reusable|Difficult to modify without breaking something else
+Lower complexity|
+
+
+
+
+
+
+
 
 
 
