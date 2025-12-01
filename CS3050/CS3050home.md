@@ -32,7 +32,7 @@ write blueberry in the exam
 #### (4) [Measurements and process models](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/Measurements%20and%20process%20models.md)
 - aspects of code that we can measure, and how the measurements can be useful
 - aspects of processes we can measure, and how the measurements can be useful
-#### (5) Testing and inspection
+#### (5) [Testing and inspection](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/Testing%20and%20inspection.md)
 - the kinds of testing we can perform, and their value
 - the role of inspection, and its value
 - comparison of inspection and testing
