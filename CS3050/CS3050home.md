@@ -17,22 +17,9 @@ write blueberry in the exam
 #### [User Senarios](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/userScenarios.md)
 #### [Requirements](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/requirements.md)
 #### [Agile](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/developmentStratagies.md) 
-#### (1) Software process models
-- know the three process models (linear, iterative, CBSE)
-- know characteristics of each model
-- know advantages and disadvantages of each model
-- be able to describe for which kinds of applications each model is suitable
+### topics for exam 2
+#### (1) [Software process models](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/developmentMethods.m)
 #### (2) [Characteristics of a design and of the implementation](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/design_implementation.md)
-- goals of detailed design
-- cohesion and coupling in a design or in an implementation
-- implications of coupling/cohesion and high/low fan-in/fan-out
 #### (3) [Code inspection — given a block of Python code:](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/codeInspection.md)
-- be able to examine the code and describe what it’s doing
-- be able to suggest changes to the code and how each change improves the code
 #### (4) [Measurements and process models](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/Measurements%20and%20process%20models.md)
-- aspects of code that we can measure, and how the measurements can be useful
-- aspects of processes we can measure, and how the measurements can be useful
 #### (5) [Testing and inspection](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/Testing%20and%20inspection.md)
-- the kinds of testing we can perform, and their value
-- the role of inspection, and its value
-- comparison of inspection and testing
