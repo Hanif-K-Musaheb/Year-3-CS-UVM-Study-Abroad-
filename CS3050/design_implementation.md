@@ -1,10 +1,4 @@
 # [Characteristics of a design and of the implementation](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/CS3050home.md)
-
-(2) Characteristics of a design and of the implementation
-- goals of detailed design
-- cohesion and coupling in a design or in an implementation
-- implications of coupling/cohesion and high/low fan-in/fan-out
-
 ### Characteristics of a Design
 
 |Charactaristic|Descript|
@@ -58,6 +52,30 @@ Easier to maintain|Harder to understand
 Easier to test|Error-prone
 More reliable and reusable|Difficult to modify without breaking something else
 Lower complexity|
+
+
+### Fan-in and Fan-out
+> These measure how modules interact.
+
+##### High fan-in (GOOD)
+ - Module is widely reused.
+ - Suggests a well-designed, general-purpose module.
+
+##### Low fan-in (NEUTRAL/WEAK)
+ - Module is rarely reused.
+ - Not necessarily bad unless reuse is expected
+
+### Fan-out
+> The number of modules that a given module calls or depends on.
+
+##### High fan-out (BAD)
+- Module depends on many others.
+- Indicates high coupling.
+- Changes in many modules can break it.
+
+##### Low fan-out (GOOD)
+ - Module is self-contained.
+ - Fewer dependencies → easier to maintain.
 
 
 
