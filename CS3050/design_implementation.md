@@ -53,6 +53,16 @@ Easier to test|Error-prone
 More reliable and reusable|Difficult to modify without breaking something else
 Lower complexity|
 
+### Coupling
+>Coupling = how strongly one module depends on another.
+##### Low coupling (GOOD)
+ - Modules operate mostly independently.
+ - Few assumptions about other modules.
+ - Clear interfaces.
+##### High coupling (BAD)
+ - Modules rely heavily on each other’s internal details.
+ - Changes in one module cause changes in others.
+
 
 ### Fan-in and Fan-out
 > These measure how modules interact.
