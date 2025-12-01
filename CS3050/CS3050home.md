@@ -18,7 +18,7 @@ write blueberry in the exam
 #### [Requirements](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/requirements.md)
 #### [Agile](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/developmentStratagies.md) 
 ### topics for exam 2
-#### (1) [Software process models](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/developmentMethods.m)
+#### (1) [Software process models](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/developmentMethods.md)
 #### (2) [Characteristics of a design and of the implementation](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/design_implementation.md)
 #### (3) [Code inspection — given a block of Python code:](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/codeInspection.md)
 #### (4) [Measurements and process models](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/Measurements%20and%20process%20models.md)
