@@ -5,6 +5,15 @@
 <img width="1009" height="514" alt="image" src="https://github.com/user-attachments/assets/505944d9-47d1-40ee-b29c-d29241282aa7" />
 
 ## Incremental Method
+#### How It Works
+- **Divide the System into Increments** -->The project is broken into smaller modules or components.
+- **Plan the First Increment** -->The most essential or core features are developed first.
+- **Design → Code → Test Each Increment** -->Each increment goes through the full development lifecycle.
+- **Deliver the Increment to the Customer** -->After finishing, the increment is released (or integrated internally).
+- **Gather Feedback** -->Clients give feedback on the completed part.
+
+Develop the Next Increment
+The next part is built based on improved understanding and feedback.
 <img width="821" height="407" alt="image" src="https://github.com/user-attachments/assets/b3de3168-d75e-483f-a21f-e3798deb7ecf" />
 
 Advantage | Explanation
