@@ -22,7 +22,7 @@ write blueberry in the exam
 - know characteristics of each model
 - know advantages and disadvantages of each model
 - be able to describe for which kinds of applications each model is suitable
-#### (2) Characteristics of a design and of the implementation
+#### (2) [Characteristics of a design and of the implementation](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/design_implementation.md)
 - goals of detailed design
 - cohesion and coupling in a design or in an implementation
 - implications of coupling/cohesion and high/low fan-in/fan-out
