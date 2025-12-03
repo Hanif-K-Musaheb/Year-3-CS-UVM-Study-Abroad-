@@ -40,7 +40,7 @@
 ### Defect Removal Efficiency (DRE)
 > **What it measures**: % of defects found before release
 ### Rework Percentage
->** What it measures:**Amount of work done more than once (due to bugs, poor requirements, misunderstandings)
+>**What it measures:** Amount of work done more than once (due to bugs, poor requirements, misunderstandings)
 
  |**Code Metrics**                       | **Process Metrics**                                   |
 | -------------------------------------- | ----------------------------------------------------- |
