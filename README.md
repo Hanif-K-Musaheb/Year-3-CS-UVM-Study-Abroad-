@@ -6,9 +6,8 @@
 ### [CS 3280 -- HCI](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3280/cs3280.md)
 
 ## Exam time table fall
-|Exam|Date|note|
-|----|----|----|
-|software|3/12/25|in class, 15%|
+|Exam|Date|note|complete?|
+|----|----|----|----|
 |organistion|-|hasnt released the topic review or any other supporting document like he did last time bc i think i dont need to start revising yet
 |algos|Tuesday, Dec 9th, 7:30 - 10:15 am|15%|
 
