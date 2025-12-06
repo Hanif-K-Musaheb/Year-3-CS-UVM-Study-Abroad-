@@ -4,6 +4,7 @@ attendence not graded,extentions allowed
  - [Logic Gates](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/cs2210/lecture1.md)
  - [Binary](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/cs2210/binary.md)
  - [FDE Cycle](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/cs2210/fde.md)
+ - [Datapath]()
 
  - [ ] Sequential circuits. SR-latch, D-latch, and D-flip-flops. (part of previous stuff)
  - [ ] Clocks and synchronization.
