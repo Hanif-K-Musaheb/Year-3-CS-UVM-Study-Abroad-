@@ -5,7 +5,7 @@ attendence not graded,extentions allowed
  - [Binary](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/cs2210/binary.md)
  - [FDE Cycle](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/cs2210/fde.md)
 
- - [ ] Sequential circuits. SR-latch, D-latch, and D-flip-flops.
+ - [ ] Sequential circuits. SR-latch, D-latch, and D-flip-flops. (part of previous stuff)
  - [ ] Clocks and synchronization.
  - [ ] Registers and register file. Construction and behavior of multi-register multi-port register file.
  - [ ] Datapath. You should understand the datapath for basic operations and the role of CPU control.
@@ -17,3 +17,5 @@ attendence not graded,extentions allowed
    - [ ] Basics of direct-mapped caches
    - [ ] Hits, misses, and penalties
  - [ ] CPU: Catamount Processing Unit
+ - [ ] quickly revise all previous stuff
+ - [ ] catamount processing unit
