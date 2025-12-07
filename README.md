@@ -17,8 +17,9 @@
 ## To Do:
 (Do organisation after Tuesday software presentation)
 ### 7 DEC 
-- [ ] chekc the software engineering presentation
-- [ ] ask do individual report and ask jason for an extention on it
+- [x] chekc the software engineering presentation
+  - [ ] do software final report
+  - [ ] ask do individual report and ask jason for an extention on it
 - [ ] talk to hci group about what needs to be done
 - [ ] algos
   - [ ] knapsack problem
