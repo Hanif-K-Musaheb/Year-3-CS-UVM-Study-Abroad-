@@ -11,7 +11,7 @@ A **flow network** is a directed graph with:
 1. **Capacity Constraint** --> not more than the capacity on that edge
 2. **Conservation of flow** --> Flow in = flow out
 
-## Ford–Fulkerson Algorithm 
+## [Ford–Fulkerson Algorithm ](https://www.youtube.com/watch?v=Tl90tNtKvxs)
 > **Goal**: Find a maximum flow from `s` to `t`.
 
 > **Key Idea**: As long as you can push more flow from 
