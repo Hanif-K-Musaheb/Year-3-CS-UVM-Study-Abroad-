@@ -20,11 +20,13 @@
 - [x] chekc the software engineering presentation
   - [x] do software final report
   - [x] ask do individual report and ask jason for an extention on it
-- [ ] talk to hci group about what needs to be done
+- [x] talk to hci group about what needs to be done
+  - [ ] do what needs to be done with HCI
+  - [ ] i still dont know what needs to be done
 - [ ] algos
   - [ ] knapsack problem
   - [ ] the other one
-- [ ] do what needs to be done with HCI
+
 
 
 
