@@ -15,9 +15,12 @@
 
 
 ## To Do:
-
+### 7 DEC
+- chekc the software engineering presentation
 - ask do individual report and ask jason for an extention on it
-- start sof
+- talk to hci group about what needs to be done
+- 
+
 
 
 
