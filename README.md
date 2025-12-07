@@ -8,7 +8,7 @@
 ## Exam time table fall
 |Exam|Date|note|
 |----|----|----|
-|organistion|-|hasnt released the topic review or any other supporting document like he did last time bc i think i dont need to start revising yet
+|organistion|11-DEC-2025   1030   1315 KALKIN 003|
 |algos|Tuesday, Dec 9th, 7:30 - 10:15 am|15%|
 
 
