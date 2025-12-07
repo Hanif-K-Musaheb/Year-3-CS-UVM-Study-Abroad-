@@ -16,8 +16,8 @@
 
 ## To Do:
 
-- ask jason about recurrence relation
-
+- ask do individual report and ask jason for an extention on it
+- start sof
 
 
 
