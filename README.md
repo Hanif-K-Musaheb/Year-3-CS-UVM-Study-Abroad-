@@ -25,12 +25,13 @@
   - [x] i still dont know what needs to be done
   - [ ] Do some of the report
 - [ ] algos
-  - [ ] knapsack problem
+  - [x] knapsack problem
   - [x] network flow
     - [x] watch for fulerson video  
   - [ ]  Independent sets and vertex covers
 ### Dec 8
  - [ ] **create cheat sheet for algos**
+ - [ ] watch knapsack thing again and do a sample problem of it
  - [ ] complete HCI report
 
 
