@@ -15,11 +15,15 @@
 
 
 ## To Do:
-### 7 DEC
-- chekc the software engineering presentation
-- ask do individual report and ask jason for an extention on it
-- talk to hci group about what needs to be done
-- 
+(Do organisation after Tuesday software presentation)
+### 7 DEC 
+- [ ] chekc the software engineering presentation
+- [ ] ask do individual report and ask jason for an extention on it
+- [ ] talk to hci group about what needs to be done
+- [ ] algos
+  - [ ] knapsack problem
+  - [ ] the other one
+- [ ] do what needs to be done with HCI
 
 
 
