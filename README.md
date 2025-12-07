@@ -27,7 +27,7 @@
 - [ ] algos
   - [ ] knapsack problem
   - [x] network flow
-    - [ ] watch for fulerson video  
+    - [x] watch for fulerson video  
   - [ ]  Independent sets and vertex covers
 ### Dec 8
  - [ ] **create cheat sheet for algos**
