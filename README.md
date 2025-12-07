@@ -26,7 +26,9 @@
   - [ ] Do some of the report
 - [ ] algos
   - [ ] knapsack problem
-  - [ ] network flow
+  - [x] network flow
+    - [ ] watch for fulerson video  
+  - [ ]  Independent sets and vertex covers
 ### Dec 8
  - [ ] **create cheat sheet for algos**
  - [ ] complete HCI report
