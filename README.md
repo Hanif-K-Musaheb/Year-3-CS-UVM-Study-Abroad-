@@ -33,11 +33,13 @@
   - [x]  Independent sets and vertex covers(9:05-10:05)
   - [x]  apply for that sapien thing
 ### Dec 8
- - [ ] **create cheat sheet for algos**
- - [ ] watch knapsack thing again and do a sample problem of it
  - [x] complete **HCI** report
    - [x]  add in all the refernences stuff
    - [x]  read thorough what you wrote on the report
+ - [ ] **create cheat sheet for algos**
+ - [ ] watch knapsack thing again and do a sample problem of it
+ - [ ] look at the grad specificatio fo rbonus points
+
 
 
 
