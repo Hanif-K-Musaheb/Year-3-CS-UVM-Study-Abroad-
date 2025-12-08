@@ -23,7 +23,9 @@
 - [x] talk to hci group about what needs to be done
   - [x] do what needs to be done with HCI
   - [x] i still dont know what needs to be done
-  - [ ] Do some of the report
+  - [x] problem statement
+  - [x] user research and result
+  - [ ] Personas, scenarios, and user flow
 - [ ] algos
   - [x] knapsack problem
   - [x] network flow
