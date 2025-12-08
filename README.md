@@ -35,9 +35,9 @@
 ### Dec 8
  - [ ] **create cheat sheet for algos**
  - [ ] watch knapsack thing again and do a sample problem of it
- - [ ] complete **HCI** report
-   - [ ]  add in all the refernences stuff
-   - [ ]  read thorough what you wrote on the report
+ - [x] complete **HCI** report
+   - [x]  add in all the refernences stuff
+   - [x]  read thorough what you wrote on the report
 
 
 
