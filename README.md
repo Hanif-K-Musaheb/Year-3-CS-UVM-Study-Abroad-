@@ -25,12 +25,13 @@
   - [x] i still dont know what needs to be done
   - [x] problem statement
   - [x] user research and result
-  - [ ] Personas, scenarios, and user flow
+  - [ ] Personas, scenarios, and user flow (7:35-8:55)
 - [ ] algos
   - [x] knapsack problem
   - [x] network flow
     - [x] watch for fulerson video  
-  - [ ]  Independent sets and vertex covers
+  - [ ]  Independent sets and vertex covers(9:05-10:05)
+  - [ ]  
 ### Dec 8
  - [ ] **create cheat sheet for algos**
  - [ ] watch knapsack thing again and do a sample problem of it
