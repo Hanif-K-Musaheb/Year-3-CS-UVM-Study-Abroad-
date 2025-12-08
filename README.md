@@ -38,7 +38,7 @@
    - [x]  read thorough what you wrote on the report
  - [x] **create cheat sheet for algos**
  - [x] watch knapsack thing again
- - [ ] do a sample problem of it
+ - [x] do a sample problem of it
  - [ ] look at the grad specificatio fo rbonus points
 
 
