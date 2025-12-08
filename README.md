@@ -36,6 +36,7 @@
  - [ ] **create cheat sheet for algos**
  - [ ] watch knapsack thing again and do a sample problem of it
  - [ ] complete HCI report
+   - [ ]  add in all the refernences stuff
 
 
 
