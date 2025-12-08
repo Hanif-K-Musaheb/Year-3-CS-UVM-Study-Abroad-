@@ -25,7 +25,7 @@
   - [x] i still dont know what needs to be done
   - [x] problem statement
   - [x] user research and result
-  - [ ] Personas, scenarios, and user flow (7:35-8:55)
+  - [x] Personas, scenarios, and user flow (7:35-8:55)
 - [ ] algos
   - [x] knapsack problem
   - [x] network flow
@@ -35,8 +35,9 @@
 ### Dec 8
  - [ ] **create cheat sheet for algos**
  - [ ] watch knapsack thing again and do a sample problem of it
- - [ ] complete HCI report
+ - [ ] complete **HCI** report
    - [ ]  add in all the refernences stuff
+   - [ ]  read thorough what you wrote on the report
 
 
 
