@@ -40,6 +40,12 @@
  - [x] watch knapsack thing again
  - [x] do a sample problem of it
  - [ ] look at the grad specificatio fo rbonus points
+### Dec 9
+### Dec 10
+### Dec 11
+- [ ] do study abroad thing 
+### Dec 12
+- [ ] pack
 
 
 
