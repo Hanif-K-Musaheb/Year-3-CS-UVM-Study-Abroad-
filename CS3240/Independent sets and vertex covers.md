@@ -7,7 +7,7 @@
 
 ## Vertex Cover
 A vertex cover is a set of vertices C⊆V such that:
- - Every edge in the graph has at least one endpoint in the set.
+ - Every **edge** in the graph has at least **one** **endpoint** in the set.
 
 ##### Examples:
  - The set of all vertices is always a vertex cover (trivial).
@@ -15,3 +15,12 @@ A vertex cover is a set of vertices C⊆V such that:
 
 ## Relationship Between Independent Sets and Vertex Covers
 <img width="942" height="336" alt="image" src="https://github.com/user-attachments/assets/6a238bbd-3bc7-4cbf-b203-a24d4662e9d8" />
+
+## Quick summary
+ - **Independent Set**: Set of vertices with no edges between them.
+ - **Vertex Cover:** Set of vertices that touch all edges.
+ - **Complement relationship:** S is independent ⟺ V∖S is a vertex cover.
+ - How to construct:
+    - **Independent set**: pick vertices that do not touch each other.
+    - **Vertex cover**: pick vertices so every edge has an endpoint chosen.
+
