@@ -36,8 +36,9 @@
  - [x] complete **HCI** report
    - [x]  add in all the refernences stuff
    - [x]  read thorough what you wrote on the report
- - [ ] **create cheat sheet for algos**
- - [ ] watch knapsack thing again and do a sample problem of it
+ - [x] **create cheat sheet for algos**
+ - [x] watch knapsack thing again
+ - [ ] do a sample problem of it
  - [ ] look at the grad specificatio fo rbonus points
 
 
