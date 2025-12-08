@@ -31,7 +31,7 @@
   - [x] network flow
     - [x] watch for fulerson video  
   - [ ]  Independent sets and vertex covers(9:05-10:05)
-  - [ ]  
+  - [ ]  apply for that sapien thing
 ### Dec 8
  - [ ] **create cheat sheet for algos**
  - [ ] watch knapsack thing again and do a sample problem of it
