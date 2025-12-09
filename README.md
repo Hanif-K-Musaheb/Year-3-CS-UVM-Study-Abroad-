@@ -39,8 +39,9 @@
  - [x] **create cheat sheet for algos**
  - [x] watch knapsack thing again
  - [x] do a sample problem of it
- - [ ] look at the grad specificatio fo rbonus points
+ - [x] look at the grad specificatio fo rbonus points
 ### Dec 9
+
 ### Dec 10
 ### Dec 11
 - [ ] do study abroad thing 
