@@ -39,13 +39,17 @@
  - [x] **create cheat sheet for algos**
  - [x] watch knapsack thing again
  - [x] do a sample problem of it
- - [x] look at the grad specificatio fo rbonus points
+ - [x] look at the grad specification for bonus points
 ### Dec 9
+- [ ] find out what needs to be done for the organistion thing
 
 ### Dec 10
 ### Dec 11
 - [ ] do study abroad thing 
 ### Dec 12
+- [ ] Go to trader joes to get paloma that bag
+- [ ] look into credit cards
+- [ ] look into things to do in nyc
 - [ ] pack
 
 
