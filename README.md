@@ -26,7 +26,7 @@
   - [x] problem statement
   - [x] user research and result
   - [x] Personas, scenarios, and user flow (7:35-8:55)
-- [ ] algos
+- [x] algos
   - [x] knapsack problem
   - [x] network flow
     - [x] watch for fulerson video  
@@ -42,6 +42,21 @@
  - [x] look at the grad specification for bonus points
 ### Dec 9
 - [ ] find out what needs to be done for the organistion thing
+     - [ ] Sequential circuits. SR-latch, D-latch, and D-flip-flops. (part of previous stuff)
+     - [ ] Clocks and synchronization.
+     - [ ] Registers and register file. Construction and behavior of multi-register multi-port register file.
+     - [ ] Datapath. You should understand the datapath for basic operations and the role of CPU control.
+       - [ ] Instruction fetch
+       - [ ] ALU operations
+       - [ ] Memory operations
+     - [ ] Memory hierarchy
+       - [x] Registers > L1 cache > L2 cache > L3 cache / SLC > RAM > non-volatile storage.
+       - [ ] Basics of direct-mapped caches
+       - [ ] Hits, misses, and penalties
+     - [ ] CPU: Catamount Processing Unit
+     - [ ] quickly revise all previous stuff
+     - [ ] catamount processing unit
+
 
 ### Dec 10
 ### Dec 11
