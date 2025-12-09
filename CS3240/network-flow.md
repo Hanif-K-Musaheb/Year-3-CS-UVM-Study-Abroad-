@@ -54,6 +54,9 @@ Backward edge capacity:
  - The minimum cut is the tightest bottleneck.
  - The maximum flow is exactly equal to that bottleneck
 
+## Why Ford–Fulkerson Terminates and Finds a Max Flow (Grad-Level Notes)
+
+
 
 
 	
