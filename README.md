@@ -45,10 +45,10 @@
      - [x] Sequential circuits. SR-latch, D-latch, and D-flip-flops. (part of previous stuff)
      - [x] Clocks and synchronization.
      - [x] Registers and register file. Construction and behavior of multi-register multi-port register file.
-     - [ ] Datapath. You should understand the datapath for basic operations and the role of CPU control.
-       - [ ] Instruction fetch
-       - [ ] ALU operations
-       - [ ] Memory operations
+     - [x] Datapath. You should understand the datapath for basic operations and the role of CPU control.
+       - [x] Instruction fetch
+       - [x] ALU operations
+       - [x] Memory operations
      - [x] Memory hierarchy
        - [x] Registers > L1 cache > L2 cache > L3 cache / SLC > RAM > non-volatile storage.
        - [x] Basics of direct-mapped caches
