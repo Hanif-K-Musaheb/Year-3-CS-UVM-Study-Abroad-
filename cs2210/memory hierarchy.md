@@ -9,6 +9,15 @@
 | **RAM (Main Memory)**                        | On motherboard              | Much slower than caches | Very large (GBs)           | Volatile         | Stores active programs and data; accessed when not in CPU cache.                           |
 | **Non-volatile Storage (SSD/HDD/NVMe)**      | Separate storage device     | Slowest                 | Huge (GB–TB)               | **Non-volatile** | Long-term storage for OS, apps, and files; loaded into RAM for execution.                  |
 
+- **LRU** - Least Recently Used (in terms of caches)
+    - LRU is a replacement algorithm used when the cache is full and a new block needs to be loaded. It chooses to evict the block that has not been used for the longest time.
+ - A recent bit (rent bit) is:
+    - A bit that tells the cache controller whether a cache entry has been used recently.
+    - An entry may only be evicted if its recent/rent bit is 0.
+
+
+Intuition:
+
 ## Basics of direct-mapped caches
  - A direct-mapped cache is the simplest cache organization.
  - Each memory block can only go into exactly one specific cache line.
