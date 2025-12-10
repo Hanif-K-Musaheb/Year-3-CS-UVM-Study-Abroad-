@@ -91,3 +91,15 @@ It decides:
      - Decodes instruction
      - Generates control signals for ALU, memory, registers, MUXes
      - Ensures datapath follows correct sequence for each instruction
+## what it said was the data path on the practice stuff
+A datapath is a collection of logic gates and registers that perform arithmetic, bitwise, and bitshift operations, controlled by the CPU control unit, in interaction with registers and memory interface. It includes auxiliary components such as multiplexers, decoders, and dedicated units for sign extension and zero extension.
+
+It is not the case that all elements of the datapath are active when fetching, decoding, or executing every possible instructions. Only the necessary components are active at each stage of the instruction cycle.
+
+For example,
+
+ - a LOADI does not require the ALU (except for incrementing the PC on fetch) or the memory interface, but it does access the register file;
+ - an ADD uses the ALU for incrementing the PC and performing the addition, and it receives operands from the register file, and writes results to the register file, but it does not use the memory interface;
+ - a STORE uses the ALU for incrementing the PC and computing effective address, the register file is used to retrieve operand(s), and the result is stored in memory via the memory interface; and
+ - a LOAD uses the ALU for incrementing the PC and computing effective address, the register file is used to retrieve destination register, and the result is loaded from memory via the memory interface.
+ 
