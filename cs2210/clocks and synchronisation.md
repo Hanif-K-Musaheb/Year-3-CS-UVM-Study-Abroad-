@@ -1,4 +1,4 @@
-# Clocks and Synchronisation
+# [Clocks and Synchronisation](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/cs2210/cs2210home.md)
 ## Clock
 >A clock in computer architecture provides the timing signal that coordinates when operations happen inside digital circuits.
 #### Key Concepts
