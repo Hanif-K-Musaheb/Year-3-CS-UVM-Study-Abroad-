@@ -66,9 +66,9 @@
      - [x] Memory operations
 - [ ] CPU: Catamount Processing Unit
 - [ ] quickly revise all previous stuff
-- [ ] do practice work
-  - [ ] data path
-  - [ ] memory hierarchy
+- [x] do practice work
+  - [x] data path
+  - [x] memory hierarchy
 - [ ] create cheat sheet
 
    
