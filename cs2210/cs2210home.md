@@ -8,7 +8,7 @@ attendence not graded,extentions allowed
 
  - [ ] Sequential circuits. SR-latch, D-latch, and D-flip-flops. ([part of previous stuff](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/cs2210/lecture1.md))
  - [ ] [Clocks and synchronization.](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/cs2210/clocks%20and%20synchronisation.md)
- - [ ] Registers and register file. Construction and behavior of multi-register multi-port register file.
+ - [ ] [Registers and register file](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/cs2210/memory%20hierarchy.md). Construction and behavior of multi-register multi-port register file.
  - [ ] [Datapath](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/cs2210/datapath.md). You should understand the datapath for basic operations and the role of CPU control.
    - [ ] Instruction fetch
    - [ ] ALU operations
