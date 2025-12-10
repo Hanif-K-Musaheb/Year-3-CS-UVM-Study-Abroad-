@@ -60,12 +60,15 @@
 
 
 ### Dec 10
- - [ ] Datapath. You should understand the datapath for basic operations and the role of CPU control.
-     - [ ] Instruction fetch
-     - [ ] ALU operations
-     - [ ] Memory operations
+ - [x] Datapath. You should understand the datapath for basic operations and the role of CPU control.
+     - [x] Instruction fetch
+     - [x] ALU operations
+     - [x] Memory operations
 - [ ] CPU: Catamount Processing Unit
 - [ ] quickly revise all previous stuff
+- [ ] do practice work
+  - [ ] data path
+  - [ ] memory hierarchy
 - [ ] create cheat sheet
 
    
