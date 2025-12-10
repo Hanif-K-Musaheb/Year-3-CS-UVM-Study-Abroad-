@@ -1,5 +1,4 @@
 # [Binary](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/cs2210/cs2210home.md)
-- [ ] You should understand the limitations of bit width of common types in C, however, you do not need to memorize upper and lower bounds for these types.
 ### Additive Inverse
 In simple terms:
  - Additive inverse of a number = the negative of that number
