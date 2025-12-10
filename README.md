@@ -41,24 +41,34 @@
  - [x] do a sample problem of it
  - [x] look at the grad specification for bonus points
 ### Dec 9
-- [ ] find out what needs to be done for the organistion thing
-     - [ ] Sequential circuits. SR-latch, D-latch, and D-flip-flops. (part of previous stuff)
-     - [ ] Clocks and synchronization.
-     - [ ] Registers and register file. Construction and behavior of multi-register multi-port register file.
+- [x] find out what needs to be done for the organistion thing
+     - [x] Sequential circuits. SR-latch, D-latch, and D-flip-flops. (part of previous stuff)
+     - [x] Clocks and synchronization.
+     - [x] Registers and register file. Construction and behavior of multi-register multi-port register file.
      - [ ] Datapath. You should understand the datapath for basic operations and the role of CPU control.
        - [ ] Instruction fetch
        - [ ] ALU operations
        - [ ] Memory operations
-     - [ ] Memory hierarchy
+     - [x] Memory hierarchy
        - [x] Registers > L1 cache > L2 cache > L3 cache / SLC > RAM > non-volatile storage.
-       - [ ] Basics of direct-mapped caches
-       - [ ] Hits, misses, and penalties
+       - [x] Basics of direct-mapped caches
+       - [x] Hits, misses, and penalties
      - [ ] CPU: Catamount Processing Unit
      - [ ] quickly revise all previous stuff
-     - [ ] catamount processing unit
+     - [x] software presentation
+     - [x] algos exam
 
 
 ### Dec 10
+ - [ ] Datapath. You should understand the datapath for basic operations and the role of CPU control.
+     - [ ] Instruction fetch
+     - [ ] ALU operations
+     - [ ] Memory operations
+- [ ] CPU: Catamount Processing Unit
+- [ ] quickly revise all previous stuff
+- [ ] create cheat sheet
+
+   
 ### Dec 11
 - [ ] do study abroad thing 
 ### Dec 12
