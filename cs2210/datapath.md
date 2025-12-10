@@ -72,6 +72,12 @@ It decides:
  - Whether a value should be stored into the register file
  - Which MUX inputs to select (e.g., ALU input from register or immediate)
 
+## Random Knowledge
+Pipelining is a technique where the CPU overlaps the execution of multiple instructions by dividing instruction processing into stages.
+
+Instead of completing one instruction before starting the next, the CPU works on different stages of several instructions at the same time.
+
+Think of FDE Cycle
 
 
 # Summary Cheat Sheet
