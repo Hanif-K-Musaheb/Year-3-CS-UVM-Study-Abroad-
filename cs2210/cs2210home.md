@@ -20,3 +20,7 @@ attendence not graded,extentions allowed
  - [ ] [CPU: Catamount Processing Unit](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/cs2210/CPU.md)
  - [ ] quickly revise all previous stuff
  - [ ] catamount processing unit
+
+
+ <img width="353" height="143" alt="image" src="https://github.com/user-attachments/assets/4295f5bc-eb37-4a17-a232-8ca18f0c25af" />
+
