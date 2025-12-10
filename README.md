@@ -9,7 +9,7 @@
 |Exam|Date|note|
 |----|----|----|
 |organistion|11-DEC-2025   1030   1315 KALKIN 003|
-|algos|Tuesday, Dec 9th, 7:30 - 10:15 am|15%|
+
 
 
 
