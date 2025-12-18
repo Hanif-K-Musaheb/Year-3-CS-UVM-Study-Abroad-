@@ -79,7 +79,7 @@
 - [ ] look into credit cards
 - [ ] look into things to do in nyc
 - [ ] pack
-- [ ] book hair cut
+- [x] book hair cut
 ### After i get back
 - [ ] make timeline thing
 - [ ] look into credit card
