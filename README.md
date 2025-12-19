@@ -20,16 +20,24 @@
 ## To Do:
 
 ### After i get back
-- [ ] make timeline thing
 - [ ] look into credit card
 - [ ] look into bus back from boston
 - [x] get ski stuff from amazon
-- [ ] find out when everyone is arriving
 - [ ] clean shoes
 - [ ] clean jacket
 - [x] eye test
   - [ ] go to store and change contacts after xmas
-  - [ ] 
+- [x] text marcus
+- [x] money
+  - [x] alba
+  - [x] caty
+- [ ] paloma xmas
+  - [ ] complete letter for paloma
+  - [ ] make timeline thing
+- [ ] boys road trip
+  - [ ] raj money
+  - [ ] find out when everyone is arriving
+
 
 
 
