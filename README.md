@@ -21,7 +21,7 @@
 
 ### After i get back
 - [ ] look into credit card
-- [ ] look into bus back from boston
+- [x] look into bus back from boston
 - [x] get ski stuff from amazon
 - [ ] clean shoes
 - [ ] clean jacket
