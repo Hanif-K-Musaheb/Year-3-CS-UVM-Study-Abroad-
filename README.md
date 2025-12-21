@@ -37,6 +37,8 @@
 - [ ] boys road trip
   - [ ] raj money
   - [ ] find out when everyone is arriving
+  - [ ] negotiate with karim and dad
+- [ ] 
 
 
 
