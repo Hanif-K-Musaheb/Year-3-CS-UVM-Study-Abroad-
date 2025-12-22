@@ -22,18 +22,20 @@
 ### After i get back
 - [ ] look into credit card
 - [x] look into bus back from boston
-- [x] get ski stuff from amazon
 - [ ] clean shoes
 - [ ] clean jacket
 - [x] eye test
   - [ ] go to store and change contacts after xmas
 - [x] text marcus
+  - [ ] text marcus know when he will know
 - [x] money
   - [x] alba
   - [x] caty
-- [ ] paloma xmas
-  - [ ] complete letter for paloma
-  - [ ] make timeline thing
+- [x] paloma xmas
+  - [x] complete letter for paloma
+  - [x] make timeline thing
+  - [x] book checked in baggage
+  - [x] get ski stuff from amazon
 - [ ] boys road trip
   - [ ] raj money
   - [ ] find out when everyone is arriving
