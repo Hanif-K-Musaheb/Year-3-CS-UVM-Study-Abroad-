@@ -36,7 +36,8 @@
   - **primrose:**
     - [ ] look into revelut
     - [ ] look into ajbell
-    - [ ] look into one family
+    - [x] look into one family
+      - [ ] call to find out what to do if you dont have the phone number still
 - [x] paloma xmas
   - [x] complete letter for paloma
   - [x] make timeline thing
