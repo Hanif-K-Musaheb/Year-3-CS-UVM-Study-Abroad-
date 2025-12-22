@@ -34,9 +34,9 @@
   - [x] caty
   - [ ] look into credit card
   - **primrose:**
-  - [ ] look into revelut
-  - [ ] look into ajbell
-  - [ ] look into one family
+    - [ ] look into revelut
+    - [ ] look into ajbell
+    - [ ] look into one family
 - [x] paloma xmas
   - [x] complete letter for paloma
   - [x] make timeline thing
