@@ -38,7 +38,7 @@
   - [ ] raj money
   - [ ] find out when everyone is arriving
   - [ ] negotiate with karim and dad
-- [ ] 
+- [ ] ask bofa what to do 
 
 
 
