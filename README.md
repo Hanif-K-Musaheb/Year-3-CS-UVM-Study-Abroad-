@@ -34,8 +34,8 @@
   - [x] caty
   - [ ] look into credit card
   - **primrose:**
-    - [ ] look into revelut
-    - [ ] look into ajbell
+    - [x] look into revelut
+    - [x] look into ajbell
     - [x] look into one family
       - [ ] call to find out what to do if you dont have the phone number still
 - [x] paloma xmas
@@ -43,10 +43,15 @@
   - [x] make timeline thing
   - [x] book checked in baggage
   - [x] get ski stuff from amazon
+  - [x] get lev
+  - [ ] 
 - [ ] boys road trip
   - [ ] raj money
-  - [ ] find out when everyone is arriving
+  - [x] find out when everyone is arriving
   - [ ] negotiate with karim and dad
+- **UVM**
+- [x] bank transfer to american account
+- [ ] pay UVM bill 
 
 
 
