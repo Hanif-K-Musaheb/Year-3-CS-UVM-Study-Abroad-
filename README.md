@@ -5,7 +5,7 @@
 ### [CS 3050 -- software engineering](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/CS3050home.md)
 ### [CS 3280 -- HCI](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3280/cs3280.md)
 ### [CS 2510 -- Intro to AI](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/CS2510home.md)
-### [CS 3540 -- Machine Learning]()
+### [CS 3540 -- Machine Learning](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3540/CS3540.md)
 ### [CS 3870 -- Data Science]()
 ### [CS 3060 -- Evolutionary Robotics]()
 
