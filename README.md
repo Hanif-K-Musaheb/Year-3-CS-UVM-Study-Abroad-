@@ -22,51 +22,6 @@
 
 
 ## To Do:
-
-### After i get back
-
-- [x] look into bus back from boston
-- [ ] clean shoes
-- [ ] clean jacket
-- [x] eye test
-  - [ ] go to store and change contacts after xmas
-- [x] text marcus
-  - [ ] text marcus know when he will know
-- [x] money
-  - [x] alba
-    - [ ] ask bofa what to do   
-  - [x] caty
-  - [ ] look into credit card
-  - **primrose:**
-    - [x] look into revelut
-    - [x] look into ajbell
-    - [x] look into one family
-      - [ ] call to find out what to do if you dont have the phone number still
-- [x] paloma xmas
-  - [x] complete letter for paloma
-  - [x] make timeline thing
-  - [x] book checked in baggage
-  - [x] get ski stuff from amazon
-  - [x] get lev
-  - [ ] 
-- [ ] boys road trip
-  - [ ] raj money
-  - [x] find out when everyone is arriving
-  - [ ] negotiate with karim and dad
-- **UVM**
-- [x] bank transfer to american account
-- [ ] pay UVM bill 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [ ] make paloma card
+- [ ] Send paloma card
+- [ ] 
