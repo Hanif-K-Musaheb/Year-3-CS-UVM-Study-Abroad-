@@ -5,15 +5,18 @@
 ### [CS 3050 -- software engineering](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3050/CS3050home.md)
 ### [CS 3280 -- HCI](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3280/cs3280.md)
 ### [CS 2510 -- Intro to AI](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/CS2510home.md)
+### [CS 3540 -- Machine Learning]()
+### [CS 3870 -- Data Science]()
+### [CS 3060 -- Evolutionary Robotics]()
 
 
 ## Subject Results
 |Exam|Grade|level|
 |----|----|----|
-|organistion & data||2|
+|organistion & data|B+|2|
 |HCI|-A|3|
-|Software||3|
-|Algos||3|
+|Software|B|3|
+|Algos|B|3|
 
 
 
