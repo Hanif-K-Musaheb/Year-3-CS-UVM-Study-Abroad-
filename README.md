@@ -23,7 +23,7 @@
 
 ## To Do:
 - [ ] **evolutionary robotics**
-  - [ ] **20 jan** hw
+  - [x] **20 jan** hw
 - [ ] **intro AI**
   - [ ] **21st jan** [reading](https://brightspace.uvm.edu/d2l/le/content/152447/viewContent/2586482/View)
 - [ ] **ML**
