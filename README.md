@@ -7,7 +7,7 @@
 ### [CS 2510 -- Intro to AI](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/CS2510home.md)
 ### [CS 3540 -- Machine Learning](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3540/CS3540.md)
 ### [CS 3870 -- Data Science](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3870/CS3870.md)
-### [CS 3060 -- Evolutionary Robotics]()
+### [CS 3060 -- Evolutionary Robotics](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3060/CS3060.md)
 
 
 ## Subject Results
