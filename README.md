@@ -27,7 +27,7 @@
   - [ ] **always do quiz after class**
   - [ ] **27 jan** hw
 - [ ] **intro AI**
-  - [ ] **21st jan** [reading](https://brightspace.uvm.edu/d2l/le/content/152447/viewContent/2586482/View)
+  - [x] **21st jan** [reading](https://brightspace.uvm.edu/d2l/le/content/152447/viewContent/2586482/View)
 - [ ] **ML**
   - [ ] **22 jan** [some coding](https://brightspace.uvm.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=149373&db=221444)
 - [ ] **DATA**
