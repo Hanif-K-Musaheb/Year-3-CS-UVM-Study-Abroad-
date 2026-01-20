@@ -29,7 +29,7 @@
 - [ ] **intro AI**
   - [x] **21st jan** [reading](https://brightspace.uvm.edu/d2l/le/content/152447/viewContent/2586482/View)
 - [ ] **ML**
-  - [ ] **22 jan** [some coding](https://brightspace.uvm.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=149373&db=221444)
+  - [x] **22 jan** [some coding](https://brightspace.uvm.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=149373&db=221444)
 - [ ] **DATA**
   - [ ] **23rd jan** [jupyter hw](https://brightspace.uvm.edu/d2l/le/calendar/149595/event/518781/detailsview#518781)
 
