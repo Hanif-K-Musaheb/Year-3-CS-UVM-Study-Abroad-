@@ -24,6 +24,8 @@
 ## To Do:
 - [ ] **evolutionary robotics**
   - [x] **20 jan** hw
+  - [ ] **always do quiz after class**
+  - [ ] **27 jan** hw
 - [ ] **intro AI**
   - [ ] **21st jan** [reading](https://brightspace.uvm.edu/d2l/le/content/152447/viewContent/2586482/View)
 - [ ] **ML**
