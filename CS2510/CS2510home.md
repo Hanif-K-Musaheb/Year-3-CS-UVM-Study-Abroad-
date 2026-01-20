@@ -2,6 +2,7 @@
 >[sylabus](https://brightspace.uvm.edu/d2l/le/content/152447/Home)
 
 <img width="243" height="113" alt="image" src="https://github.com/user-attachments/assets/51f25023-a255-48f5-ab88-b3d64de2c1bf" />
+<img width="280" height="150" alt="image" src="https://github.com/user-attachments/assets/2547f24c-683d-4588-9e19-279872f45a91" />
 
 
 > [Scribe week 02 feb](https://brightspace.uvm.edu/d2l/le/content/152447/viewContent/2620315/View)
