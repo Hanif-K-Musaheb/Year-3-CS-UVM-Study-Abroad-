@@ -97,3 +97,26 @@ The contrapositive is logically equivalent.
 
 Also: (P ∧ Q) ∨ (¬P ∧ ¬Q)
 
+
+## Quantifiers
+
+- ∀x : for all x  
+- ∃x : there exists an x
+
+## Negation of quantifiers (De Morgan–style)
+
+- ¬(∀x P(x)) ≡ ∃x ¬P(x)  
+- ¬(∃x P(x)) ≡ ∀x ¬P(x)  
+
+```
+“Not all” = “there exists a counterexample”  
+“None exist” = “for all, not”
+```
+
+
+
+
+
+
+
+
