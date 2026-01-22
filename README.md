@@ -33,6 +33,6 @@
 - [ ] **DATA**
   - [ ] **23rd jan** [jupyter hw](https://brightspace.uvm.edu/d2l/le/calendar/149595/event/518781/detailsview#518781)
 
-- [ ] make paloma card
-- [ ] Send paloma card
+- [x] make paloma card
+- [x] Send paloma card
 - [ ] 
