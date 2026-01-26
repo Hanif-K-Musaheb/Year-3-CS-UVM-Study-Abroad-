@@ -27,7 +27,7 @@
 
 
  ### lost.pl
- >[lost.py](lost.py)
+ >[lost.pl](lost.pl)
  ``` prolog
 likes(jack, kate).
 likes(jack, hurley).
