@@ -23,11 +23,13 @@
 
 #### specific to the script lost.py
 >**Terminal Tip**: After it shows you one name, press `;` to see the next person, until it says `false` (meaning no more matches).
+
+
 |command|result|explanation|
 |-----|-----|-----|
 |`romance(kate,jack).`|`false.`|asking if there is a romance between kate and jack|
 |`enemies(locke,sawyer).`|`true.`|asking if locke and sawyer are enemies|
-|`friendship(jack,Person).`|`Person = kate ; Person = hurley ; Person = sayid.`|asking who is jack friends with|
+|`friendship(jack,Person).`|` Person = kate ; Person = hurley ; Person = sayid.`| asking who is jack friends with|
 
 
 
