@@ -7,5 +7,5 @@
 
 > [Scribe week 02 feb](https://brightspace.uvm.edu/d2l/le/content/152447/viewContent/2620315/View)
 -----------------------
-[AI Logics](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/AIlogics.md)
-[Prolog](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/prolog.md)
+ - [AI Logics](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/AIlogics.md)
+ - [Prolog](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/prolog.md)
