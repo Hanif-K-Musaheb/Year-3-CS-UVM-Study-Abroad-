@@ -22,8 +22,12 @@
 |`;`	|  If Prolog finds one answer and waits, type `;` to ask "Are there any more?"|
 
 #### specific to the script lost.py
-|command|explanation|
-|-----|-----|
+|command|result|explanation|
+|-----|-----|-----|
+|`romance(kate,jack).`|`false.`|asking if there is a romance between kate and jack|
+|`enemies(locke,sawyer).`|`true.`|asking if locke and sawyer are enemies|
+
+
 
 
  ### lost.pl
