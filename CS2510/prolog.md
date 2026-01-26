@@ -6,6 +6,7 @@
 |`,`|and|
 |`;`|or|
 |`not`|not|
+|`%`|commenting|
 
 ### Prolog Rules
  - variables can **only** start with a capital or an underscore
