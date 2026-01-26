@@ -30,7 +30,8 @@
 |`romance(kate,jack).`|`false.`|asking if there is a romance between kate and jack|
 |`enemies(locke,sawyer).`|`true.`|asking if locke and sawyer are enemies|
 |`friendship(jack,Person).`|` Person = kate ; Person = hurley ; Person = sayid.`| asking who is jack friends with|
-
+|`friction(X,Y).`|`X = jack,Y = sawyer ;X = sawyer,Y = jack ;X = sawyer,Y = sayid ;X = sayid,Y = sawyer ;`|You can ask Prolog to find all pairs of people who fit a certain rule.|
+|`likes(jack, Someone), likes(Someone, sawyer).`|`Someone = kate ; Someone = hurley ;`|**Complex Chains** asking who jack likes who also like sawyer|
 
 
 
