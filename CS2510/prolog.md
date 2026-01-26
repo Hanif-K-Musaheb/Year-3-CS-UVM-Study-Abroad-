@@ -5,7 +5,7 @@
 |`:-`|if|
 |`,`|and|
 |`;`|or|
-|`not`|not|
+|`not`,`+\`|not|
 |`%`|commenting|
 
 ### Prolog Rules
@@ -32,61 +32,117 @@
 |`friendship(jack,Person).`|` Person = kate ; Person = hurley ; Person = sayid.`| asking who is jack friends with|
 |`friction(X,Y).`|`X = jack,Y = sawyer ;X = sawyer,Y = jack ;X = sawyer,Y = sayid ;X = sayid,Y = sawyer ;`|You can ask Prolog to find all pairs of people who fit a certain rule.|
 |`likes(jack, Someone), likes(Someone, sawyer).`|`Someone = kate ; Someone = hurley ;`|**Complex Chains** asking who jack likes who also like sawyer|
-
+|`findall(P, survivor(P), List).`| `List = [jack, kate, sawyer, hurley, sayid, sun, jin, charlie, claire …].` |so that you dont have to press `;` every time|
 
 
  ### lost.pl
  >[lost.pl](lost.pl)
  ``` prolog
+% --- CATEGORIES ---
+survivor(jack). survivor(kate). survivor(sawyer). survivor(hurley).
+survivor(sayid). survivor(sun). survivor(jin). survivor(charlie).
+survivor(claire). survivor(locke). survivor(desmond). survivor(boone).
+survivor(shannon).
+
+other(ben). other(juliet). other(richard). other(alex).
+other(karl). other(mikhail). other(tom).
+
+outside(penny).
+
+% --- LIKES ---
 likes(jack, kate).
+likes(jack, juliet).
 likes(jack, hurley).
-likes(jack, sayid).
 likes(kate, jack).
 likes(kate, sawyer).
-likes(kate, hurley).
 likes(sawyer, kate).
 likes(sawyer, hurley).
 likes(hurley, jack).
 likes(hurley, sawyer).
-likes(hurley, sayid).
+likes(hurley, desmond).
 likes(sayid, jack).
-likes(sayid, shannon).
-likes(sayid, hurley).
+likes(sayid, sun).
+likes(jin, sun).
+likes(sun, jin).
+likes(sun, sayid).
+likes(locke, ben).
 likes(locke, boone).
-likes(locke, jack).
 likes(boone, locke).
-likes(shannon, boone).
+likes(desmond, charlie).
+likes(charlie, desmond).
+likes(charlie, hurley).
+likes(claire, charlie).
+likes(juliet, jack).
+likes(juliet, sawyer).
+likes(ben, juliet).
+likes(richard, ben).
+likes(alex, karl).
+likes(karl, alex).
+likes(mikhail, ben).
 
-loves(shannon, sayid).
+% --- LOVES ---
+loves(jack, kate).
+loves(kate, sawyer).
+loves(sawyer, kate).
 loves(sayid, shannon).
-loves(boone, shannon).
-loves(kate, jack).
+loves(shannon, sayid).
+loves(sun, jin).
+loves(jin, sun).
+loves(desmond, penny).
+loves(penny, desmond).
+loves(charlie, claire).
+loves(claire, charlie).
+loves(juliet, jack).
+loves(alex, karl).
+loves(karl, alex).
 
+% --- DISLIKES ---
 dislikes(jack, sawyer).
 dislikes(sawyer, jack).
-dislikes(sawyer, sayid).
 dislikes(sayid, sawyer).
-dislikes(shannon, locke).
-dislikes(boone, sawyer).
+dislikes(juliet, ben).
+dislikes(sawyer, ben).
+dislikes(kate, ben).
+dislikes(charlie, sawyer).
+dislikes(locke, jack).
+dislikes(jack, locke).
 
-hates(sawyer, locke).
-hates(locke, sawyer).
-hates(shannon, boone).
-hates(boone, locke).
+% --- HATES ---
+hates(ben, jack).
+hates(jack, ben).
+hates(sawyer, tom).
+hates(tom, sawyer).
+hates(sayid, ben).
+hates(mikhail, sayid).
+hates(sayid, mikhail).
+hates(ben, locke).
+hates(locke, ben).
 
-friendship(X, Y) :-
-    likes(X, Y),
-    likes(Y, X).
+% --- RULES ---
 
-romance(X, Y) :-
-    loves(X, Y),
-    loves(Y, X).
+% Basic Relationship Rules
+friendship(X, Y) :- likes(X, Y), likes(Y, X).
+romance(X, Y) :- loves(X, Y), loves(Y, X).
+friction(X, Y) :- dislikes(X, Y), dislikes(Y, X).
+enemies(X, Y) :- hates(X, Y), hates(Y, X).
 
-friction(X, Y) :-
-    dislikes(X, Y),
-    dislikes(Y, X).
+% Love Triangle Rule
+love_triangle(Person, Choice1, Choice2) :-
+    likes(Person, Choice1),
+    likes(Person, Choice2),
+    Choice1 \= Choice2,
+    (friction(Choice1, Choice2) ; enemies(Choice1, Choice2)).
 
-enemies(X, Y) :-
-    hates(X, Y),
-    hates(Y, X).
+% The "Secret Agent" (Betrayal Risk) Rule
+% Finds characters who like someone, but that person actually hates them.
+betrayal_risk(Agent, Target) :-
+    likes(Agent, Target),
+    hates(Target, Agent).
+
+% Inter-Group Relationship Rule
+% Finds an 'Other' who likes a 'Survivor'
+bridge_builder(X, Y) :-
+    other(X),
+    survivor(Y),
+    likes(X, Y).
 ```
