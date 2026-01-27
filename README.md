@@ -23,7 +23,7 @@
 
 ## To Do:
 - [ ] **evolutionary robotics**
-  - [ ] **27 jan** hw
+  - [x] **27 jan** hw
 - [ ] **intro AI**
   - [x] 
 - [ ] **ML**
