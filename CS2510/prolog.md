@@ -1,4 +1,5 @@
 # [Prolog](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/CS2510home.md)
+- [ ] look at the code posted 
 ### Some Prolog syntax
 |syntax|meaning|
 |----|----|
