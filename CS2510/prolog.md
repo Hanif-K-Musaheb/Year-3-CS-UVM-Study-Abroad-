@@ -11,6 +11,7 @@
 ### Prolog Rules
  - variables can **only** start with a capital or an underscore
  - **always** put a full stop at the end of lines
+ - In Prolog, you can think of **atoms** as the "nouns" (the things) and **predicates** as the "verbs" or "relationships" (the logic).
 
 
 ### interacting with prolog in terminal
