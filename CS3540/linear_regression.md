@@ -13,3 +13,18 @@
 >It’s linear in the parameters θ, not in x.
 
 <img width="365" height="67" alt="image" src="https://github.com/user-attachments/assets/136719f8-0e47-4937-9026-c8e8ab3cc7a0" />
+
+### Lingo
+- **Data point / example / sample** = One row of data. `x = 0.4 y = 6.2`
+- **m** = number of data points
+- **1/m** = average over all data points
+- **feature** = One measurable property used to make predictions
+- <img width="252" height="148" alt="image" src="https://github.com/user-attachments/assets/b5a69436-17f6-4a73-af83-97998af66c42" />
+
+#### Difference between feature and data point
+| Thing      | Meaning    |
+| ---------- | ---------- |
+| Data point | One row    |
+| Feature    | One column |
+
+
