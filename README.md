@@ -23,9 +23,9 @@
 
 ## To Do:
 - [ ] **evolutionary robotics**
-  - [x] **27 jan** hw
+  - [ ] **Feb 3** HW
 - [ ] **intro AI**
-  - [x] 
+  - [ ] **feb 6**[reading](https://brightspace.uvm.edu/d2l/le/calendar/152447/event/516412/detailsview#516412) 
 - [ ] **ML**
   - [x] 
 - [ ] **DATA**
