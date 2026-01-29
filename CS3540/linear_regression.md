@@ -19,7 +19,23 @@
 - **m** = number of data points
 - **1/m** = average over all data points
 - **feature** = One measurable property used to make predictions
+- **n** = number of features
 - <img width="252" height="148" alt="image" src="https://github.com/user-attachments/assets/b5a69436-17f6-4a73-af83-97998af66c42" />
+- **Column of ones / bias / intercept** = The ones column allows the model to shift up/down. __Without it__: Your model must pass through (0,0)
+- **y (target / label / output)** = The thing you’re trying to predict
+- **θ (theta) — parameters / weights** = θ is what the model learns.
+- <img width="849" height="375" alt="image" src="https://github.com/user-attachments/assets/1d94a536-c30f-4adf-a731-4d2750d28d45" />
+- **Hypothesis / model / prediction** = <img width="201" height="71" alt="image" src="https://github.com/user-attachments/assets/a0d3796e-9a10-46a9-b744-471623356dcf" />
+- **ŷ (y-hat)** if y = real value; then ŷ = model guess
+- **Error/Residual** = ŷ-y
+##### Cost function / loss function
+>This collapses all errors into **one number**.
+
+###### Mean Squared Error:
+<img width="263" height="77" alt="image" src="https://github.com/user-attachments/assets/26146e3b-4289-4e8a-aeb0-e0c2c7bd2fe9" />
+
+
+
 
 #### Difference between feature and data point
 | Thing      | Meaning    |
