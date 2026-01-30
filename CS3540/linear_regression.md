@@ -43,4 +43,7 @@
 | Data point | One row    |
 | Feature    | One column |
 
+### Overfitting
+ - **Overfitting** happens when a model fits the training data very well but captures noise instead of the underlying pattern, causing poor generalisation to new data.
+
 
