@@ -22,6 +22,7 @@
 
 
 ## To Do:
+- [ ] call for immunization
 - [ ] **evolutionary robotics**
   - [ ] **Feb 3** HW
 - [ ] **intro AI**
