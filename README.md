@@ -24,7 +24,7 @@
 ## To Do:
 - [ ] call for immunization
 - [ ] **evolutionary robotics**
-  - [ ] **Feb 3** HW
+  - [x] **Feb 3** HW
 - [ ] **intro AI**
   - [ ] [do the active learning](https://brightspace.uvm.edu/d2l/le/content/152447/viewContent/2640177/View)
   - [ ] **feb 6**[reading](https://brightspace.uvm.edu/d2l/le/calendar/152447/event/516412/detailsview#516412) 
