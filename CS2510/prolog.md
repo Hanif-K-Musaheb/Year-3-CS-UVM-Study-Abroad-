@@ -1,5 +1,10 @@
 # [Prolog](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/CS2510home.md)
-- [ ] look at the code posted 
+- [ ] look at the code posted
+
+### What is Prolog
+- **Prolog** stands for **PROgramming in LOGic**.
+- Instead of telling the computer how to do things step by step, you tell it facts and rules, and then you ask questions. Prolog figures out the answer for you using logic and inference.
+>So it’s a declarative language, not an imperative one.
 ### Some Prolog syntax
 |syntax|meaning|
 |----|----|
