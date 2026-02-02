@@ -58,7 +58,9 @@
 - Helps you:
   - Tune hyperparameters (learning rate, regularization strength, model size, etc.)
   - Detect overfitting (doing great on training data, badly on unseen data)
-
+    
+## Support Vector Machines
+### hard margin classification
 
 
 
