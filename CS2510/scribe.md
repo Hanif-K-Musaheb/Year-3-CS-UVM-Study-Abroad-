@@ -2,7 +2,6 @@
 - `_` anonamous value that you can't access in prolog, unlike other languages such as python
 ### Boolean Satisfiability (unconstrained)
 - A boolean is satfiable if there is some combination of inputs that result in **true**.
-- 3SAT
 - SAT is NP-complete and has `O(2^n)` complexity
 ##### How is prolog fast at this?
 - prolog solves this through **constraints**
@@ -27,8 +26,7 @@
 
 #### Goal clause
 - A goal clause is a negative clause interpreted as a question: “Can this situation occur given my knowledge base?”
-- Example: `←P,Q`
-   
+- Example: `←P∧Q ≡ (¬P∨¬Q)≡(P∧Q)→false ≡ ¬P∨¬Q` (implication rule `P → Q ≡ ¬P ∨ Q`)
 
 
 
