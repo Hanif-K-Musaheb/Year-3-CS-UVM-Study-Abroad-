@@ -30,7 +30,7 @@
   - [ ] **feb 6**[reading](https://brightspace.uvm.edu/d2l/le/calendar/152447/event/516412/detailsview#516412)
   - [ ] **feb 9** hw
 - [ ] **ML**
-  - [x] 
+  - [ ] [complete the submission](https://docs.google.com/document/d/1KCMH6d2X6r1-BFHSYg7oauPKJSveUPxbLv-iIyglzGM/edit?tab=t.0)
 - [ ] **DATA**
   - [x] 
 
