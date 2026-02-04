@@ -47,6 +47,19 @@
 
 > Programmed to provide answers when don't have any
 
+# Notes for the 4th of Febuary
+
+- **state wise function**
+- quick reminder of what bfs is
+- use last to get the last element of a list
+
+### GPS vs Prolog
+#### Commonalties 
+#### Differences
+- Prolog algorithmically back track
+- GPS says the backtracking parallels human touhgt
+- prolog is still used today for proofing
+
 
 
 
