@@ -35,4 +35,9 @@
   - [x] 
 
 
-- [ ] 
+|Course|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
+|---|---|---|---|---|---|---|---|
+|intro to AI| | | |  |||
+|evolutionary robotics|
+|ML|
+|Data Science|
