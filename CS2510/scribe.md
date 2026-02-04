@@ -60,6 +60,12 @@
 - GPS says the backtracking parallels human touhgt
 - prolog is still used today for proofing
 
+### Knowledge Representation
+1. **Surgate** - stands for something else
+2. **Ontelogical Commitment** - study what exist and how it exists
+3. **Fragmentary Theory of inteligent reasoning** - facts and rules
+4. **medium for pragmatically effiect computation**
+5. **medium for human expression**
 
 
 
