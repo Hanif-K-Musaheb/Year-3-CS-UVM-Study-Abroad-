@@ -48,17 +48,45 @@
 > Programmed to provide answers when don't have any
 
 # Notes for the 4th of Febuary
+### Stepwise Funciton
+- A stepwise function in Prolog means: A rule that moves the system from one state to the next, one step at a time.
+``` prolog
+step(X, Y) :-
+    Y is X + 1.
+```
 
-- **state wise function**
-- quick reminder of what bfs is
-- use last to get the last element of a list
+- **Breadth-First Search** (BFS) is a search method that:
+  - explores all states one step away first,
+  - then all states two steps away, and so on.
+  
+### how use last
+``` prolog
+last(List, LastElement).
 
-### GPS vs Prolog
-#### Commonalties 
-#### Differences
-- Prolog algorithmically back track
-- GPS says the backtracking parallels human touhgt
-- prolog is still used today for proofing
+%using it in the terminal
+?- last([a, b, c, d], X).
+X = d.
+```
+
+
+### GPS (General Problem Solver)
+ - A problem-solving framework
+ - Focuses on states, goals, and operators
+ - Explicitly searches through a state space
+ - You describe:
+   - initial state
+   - goal state
+   - operators (actions)
+     
+>**backtracking** is built into the language (similar to human thought)
+### Prolog
+ - A logic programming language
+ - Based on facts and rules
+ - Uses logical inference (unification + backtracking)
+ - You describe what is true, not how to solve it
+   
+>**backtracking** is a deliberate search control step
+     
 
 ### Knowledge Representation
 1. **Surgate** - stands for something else
