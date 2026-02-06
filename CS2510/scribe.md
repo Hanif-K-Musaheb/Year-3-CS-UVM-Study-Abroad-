@@ -88,12 +88,36 @@ X = d.
 >**backtracking** is a deliberate search control step
      
 
-### Knowledge Representation
-1. **Surgate** - stands for something else
-2. **Ontelogical Commitment** - study what exist and how it exists
-3. **Fragmentary Theory of inteligent reasoning** - facts and rules
-4. **medium for pragmatically effiect computation**
-5. **medium for human expression**
+
+# Notes for the 6th of Febuary
+> Discussion of Davis , Shrobe , Szolovits
+
+## Knowledge Representation
+### 1. **Surgate**
+>stands for something else/ stand in representation for the real world
+- "All models are wrong. Some models are useful" - George. E. P. Box
+
+  
+### 2. **Ontelogical Commitment** 
+>study what exist and how it exists
+ - blurring and shaping the world for your model
+ - **things** - are things you can point to like a laptop
+ - **stuff** - are more continous thing like water and butter
+ - view of reality not just technical but philosophical
+
+
+### 3. **Fragmentary Theory of inteligent reasoning**
+>facts and rules
+ - inferances: possible vs sanctioned
+ - frameworks for different models of reasoning
+
+### 4. **medium for pragmatically effiect computation**
+- for example horn clauses
+
+
+### 5. **medium for human expression**
+- 
+
 
 
 
