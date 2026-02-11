@@ -62,5 +62,16 @@
 ## Support Vector Machines
 ### hard margin classification
 
+# ensable learning
+- hard voting
+- soft voting
+### bagging
+### out of bag evaluation
+### random forrest
+### Boosting
+#### ada boost
+#### Gradient boost
+
+
 
 
