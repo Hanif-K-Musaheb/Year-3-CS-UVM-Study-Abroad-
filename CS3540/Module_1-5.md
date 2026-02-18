@@ -1,4 +1,4 @@
-# [Regression](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3540/CS3540.md)
+# [Module 1-5](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3540/CS3540.md)
 ### Linear Regression
 - A linear regression models a relationship between variables:
 <img width="177" height="44" alt="image" src="https://github.com/user-attachments/assets/9fd518bc-cf3d-45ea-a635-c85b379a3e48" />
