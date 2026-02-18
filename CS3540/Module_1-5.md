@@ -60,21 +60,11 @@
   - Detect overfitting (doing great on training data, badly on unseen data)
     
 ## Support Vector Machines
+A Support Vector Machine (SVM) is a supervised machine learning algorithm used mainly for classification (and sometimes regression). Its goal is to find the best possible boundary that separates data points from different classes.
 ### hard margin classification
-
-# ensable learning
-- hard voting
-- soft voting
-### bagging
-### out of bag evaluation
-### random forrest
-### Boosting
-#### ada boost
-#### Gradient boost
-
-### K-means
-#### steps
-####k means objective function
-#### k means limits
-
+#### Hard margin SVM is the strict version of SVM classification.
+ - It assumes:
+   - The data is perfectly linearly separable
+   - There is no noise
+   - No misclassifications are allowed
 
