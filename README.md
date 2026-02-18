@@ -19,20 +19,3 @@
 |Algos|B|3|
 
 
-
-
-## To Do:
-- [ ] call for immunization
-- [ ] **evolutionary robotics**
-  - [x] **Feb 3** HW
-- [ ] **intro AI**
-  - [x] [do the active learning](https://brightspace.uvm.edu/d2l/le/content/152447/viewContent/2640177/View)
-  - [ ] **feb 6**[reading](https://brightspace.uvm.edu/d2l/le/calendar/152447/event/516412/detailsview#516412)
-  - [ ] **feb 9** hw
-- [ ] **ML**
-  - [ ] [complete the submission](https://docs.google.com/document/d/1KCMH6d2X6r1-BFHSYg7oauPKJSveUPxbLv-iIyglzGM/edit?tab=t.0)
-- [ ] **DATA**
-  - [x] 
-
-
-
