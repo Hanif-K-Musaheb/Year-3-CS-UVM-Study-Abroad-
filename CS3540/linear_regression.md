@@ -72,6 +72,9 @@
 #### ada boost
 #### Gradient boost
 
-
+### K-means
+#### steps
+####k means objective function
+#### k means limits
 
 
