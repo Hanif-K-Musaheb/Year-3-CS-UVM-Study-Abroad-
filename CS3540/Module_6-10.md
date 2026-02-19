@@ -51,14 +51,17 @@ A Random Forest:
  - Instead of training models independently
  - Models are trained sequentially.
  - Each new model Focuses more on mistakes made by previous models
-### Core idea:
+#### Core idea:
  - Turn many weak learners into one strong learner.
-### Example process:
+#### Example process:
 1. Train weak model
 2. Increase weight of misclassified points
 3. Train next model focusing on those
 4. Combine models (weighted)
+
 #### ada boost
+Train weak models sequentially.
+Each new model focuses more on the mistakes of the previous ones.
 #### Gradient boost
 
 ### K-means
