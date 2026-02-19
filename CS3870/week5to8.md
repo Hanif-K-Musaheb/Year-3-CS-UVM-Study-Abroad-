@@ -27,3 +27,5 @@
  - Training and testing set
 
 ### k-fold cross validation
+
+## Feb 19
