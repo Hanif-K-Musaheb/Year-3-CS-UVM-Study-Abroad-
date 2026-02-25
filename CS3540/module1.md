@@ -1,4 +1,4 @@
-# [Module 1 -- Introduction to Machine Learning](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/edit/main/CS3540/CS3540.md)
+# [Module 1 -- Introduction to Machine Learning](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/main/CS3540/CS3540.md)
 
 <img width="746" height="300" alt="image" src="https://github.com/user-attachments/assets/cd420aa9-aed3-450c-871f-95d97e2d721d" />
 
