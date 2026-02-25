@@ -12,5 +12,17 @@
  - **Instance‑Based** – Store training examples; predict by comparing a new instance to stored ones (e.g., k‑Nearest Neighbors).
  - **Model‑Based** – Build an abstract model from all training data (e.g., linear regression).
 
+<img width="1492" height="312" alt="image" src="https://github.com/user-attachments/assets/93015c99-64dd-4a88-adc3-9d503590a4c2" />
 
 
+### Overfitting Remedies
+ - Apply regularization.
+ - Simplify the model (fewer parameters).
+ - Gather more data or reduce noise.
+
+### Underfitting Remedies
+ - Use a more powerful model.
+ - Provide better features.
+ - Decrease regularization (allow more flexibility).
+
+<img width="414" height="234" alt="image" src="https://github.com/user-attachments/assets/bfb370d1-f5e1-43ef-bc00-9beff44b03f3" />
