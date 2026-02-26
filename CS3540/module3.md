@@ -26,6 +26,14 @@ It uses log loss (cross-entropy):
  - It works better with probabilities.
  - It makes optimization convex.
 
+### Cross entropy
+Think of it like this:
+ - If the true label is 1
+ - And your model predicts 0.99 → good ✅ (small loss)
+ - If your model predicts 0.01 → very bad ❌ (huge loss)
+   
+Cross-entropy heavily punishes being **confident and wrong**.
+
 ### Decision Boundary
 <img height="250" alt="image" src="https://github.com/user-attachments/assets/4e701e4f-97d3-4e46-979e-2b5255130784" />
 <img height="250" alt="image" src="https://github.com/user-attachments/assets/3f838218-74de-40ad-bf71-2c55623ab070" />
