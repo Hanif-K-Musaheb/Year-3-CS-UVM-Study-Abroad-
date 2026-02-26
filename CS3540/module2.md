@@ -33,12 +33,17 @@
 ###### Mean Squared Error:
 <img width="263" height="77" alt="image" src="https://github.com/user-attachments/assets/26146e3b-4289-4e8a-aeb0-e0c2c7bd2fe9" />
 
-### Regularization
-#### Reduced number of features
+## Regularization
+
+### Reduced number of features
+
 >fewer degrees freedom a model has the harder it will to be overfit the data, this can be done easily in polynomaial models by reducing th enumber of polynomial degrees
-#### Ridge Regression
+
+### Ridge Regression
+
 <img width="645" height="233" alt="image" src="https://github.com/user-attachments/assets/4689e044-3963-4fa2-97f3-fd9a802cc5a6" />
-##### what each part means
+
+#### what each part means
  - Sum of Squared Errors (SSE) → measures how wrong the predictions are.
  - λ (lambda) → regularization strength (how much we penalize big weights).
  - ∑𝜃𝑗2 → squared weights (this is called L2 regularization).
@@ -49,6 +54,39 @@
    - very large λ --> model underfits
    - you want to find the sweet spot inbetween
  - penalty type is L2(squared weights)
+### Lasso Regulariztion (L1 Regularization)
+Lasso stands for:
+> Least Absolute Shrinkage and Selection Operator
+
+<img width="270" height="88" alt="image" src="https://github.com/user-attachments/assets/6edfa402-dbca-4723-a3db-450ecff6eab6" />
+
+#### Lasso:
+ - Shrinks weights toward 0
+ - **Can make some weights exactly 0**
+ - Automatically removes unimportant features
+ - That means it performs **feature selection**.
+ - **λ**
+   - Small λ --> slight shrinking of weights
+   - very large λ --> model underfits
+
+#### What changed?
+ - Ridge uses squares → `𝜃𝑗2`
+ - Lasso uses absolute values → `∣𝜃𝑗∣`
+
+### Elastic Net Regularization
+> Elastic Net is a regularization method that combines Ridge (L2) and Lasso (L1) penalties.
+<img width="526" height="74" alt="image" src="https://github.com/user-attachments/assets/bdd67568-a2c8-4c22-bc0a-0e2afe37bbb5" />
+ - α (alpha) → controls the mix:
+ - α = 1 → pure Lasso
+ - α = 0 → pure Ridge
+
+### Early Stopping
+>**Early stopping** is a regularization technique where you stop training a model before it **fully converges** to prevent overfitting.
+
+ - When training:
+   - Early iterations → model learns real patterns.
+   - Later iterations → model starts memorizing noise.
+
 
 
 
