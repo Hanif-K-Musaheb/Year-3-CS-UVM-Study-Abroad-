@@ -27,26 +27,29 @@
 
 <img width="365" height="67" alt="image" src="https://github.com/user-attachments/assets/136719f8-0e47-4937-9026-c8e8ab3cc7a0" />
 
-### Lingo
-- **Data point / example / sample** = One row of data. `x = 0.4 y = 6.2`
-- **m** = number of data points
-- **1/m** = average over all data points
-- **feature** = One measurable property used to make predictions
-- **n** = number of features
-- <img width="252" height="148" alt="image" src="https://github.com/user-attachments/assets/b5a69436-17f6-4a73-af83-97998af66c42" />
-- **Column of ones / bias / intercept** = The ones column allows the model to shift up/down. __Without it__: Your model must pass through (0,0)
-- **y (target / label / output)** = The thing you’re trying to predict
-- **θ (theta) — parameters / weights** = θ is what the model learns.
-- <img width="849" height="375" alt="image" src="https://github.com/user-attachments/assets/1d94a536-c30f-4adf-a731-4d2750d28d45" />
-- **Hypothesis / model / prediction** = <img width="201" height="71" alt="image" src="https://github.com/user-attachments/assets/a0d3796e-9a10-46a9-b744-471623356dcf" />
-- **ŷ (y-hat)** if y = real value; then ŷ = model guess
-- **Error/Residual** = ŷ-y
-- 
 ##### Cost function / loss function
 >This collapses all errors into **one number**.
 
 ###### Mean Squared Error:
 <img width="263" height="77" alt="image" src="https://github.com/user-attachments/assets/26146e3b-4289-4e8a-aeb0-e0c2c7bd2fe9" />
+
+### Regularization
+#### Reduced number of features
+>fewer degrees freedom a model has the harder it will to be overfit the data, this can be done easily in polynomaial models by reducing th enumber of polynomial degrees
+#### Ridge Regression
+<img width="645" height="233" alt="image" src="https://github.com/user-attachments/assets/4689e044-3963-4fa2-97f3-fd9a802cc5a6" />
+##### what each part means
+ - Sum of Squared Errors (SSE) → measures how wrong the predictions are.
+ - λ (lambda) → regularization strength (how much we penalize big weights).
+ - ∑𝜃𝑗2 → squared weights (this is called L2 regularization).
+ - Important:
+   - The bias term 𝜃0 is usually not regularized.
+   - Larger weights get penalized more because they are squared.
+   - Small λ --> slight shrinking of weights
+   - very large λ --> model underfits
+   - you want to find the sweet spot inbetween
+ - penalty type is L2(squared weights)
+
 
 
 #### Difference between feature and data point
@@ -70,4 +73,19 @@
 - Helps you:
   - Tune hyperparameters (learning rate, regularization strength, model size, etc.)
   - Detect overfitting (doing great on training data, badly on unseen data)
+ 
+### Lingo
+- **Data point / example / sample** = One row of data. `x = 0.4 y = 6.2`
+- **m** = number of data points
+- **1/m** = average over all data points
+- **feature** = One measurable property used to make predictions
+- **n** = number of features
+- <img width="252" height="148" alt="image" src="https://github.com/user-attachments/assets/b5a69436-17f6-4a73-af83-97998af66c42" />
+- **Column of ones / bias / intercept** = The ones column allows the model to shift up/down. __Without it__: Your model must pass through (0,0)
+- **y (target / label / output)** = The thing you’re trying to predict
+- **θ (theta) — parameters / weights** = θ is what the model learns.
+- <img width="849" height="375" alt="image" src="https://github.com/user-attachments/assets/1d94a536-c30f-4adf-a731-4d2750d28d45" />
+- **Hypothesis / model / prediction** = <img width="201" height="71" alt="image" src="https://github.com/user-attachments/assets/a0d3796e-9a10-46a9-b744-471623356dcf" />
+- **ŷ (y-hat)** if y = real value; then ŷ = model guess
+- **Error/Residual** = ŷ-y
 
