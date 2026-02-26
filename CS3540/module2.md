@@ -1,4 +1,17 @@
 # [Module 1-5](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3540/CS3540.md)
+### A quick table with most of the symbols and there info:
+| Symbol | What It Is | Simple Explanation |
+|--------|------------|-------------------|
+| θ      | Parameter vector | All the model’s weights grouped into one column vector. It includes the bias term and all feature weights. |
+| θ₀     | Bias term | The intercept term. It shifts the prediction up or down. |
+| θ₁ … θₙ | Feature weights | The weights that multiply each feature. They control how important each feature is. |
+| θᵀ     | Transpose of θ | The same values as θ, but written as a row vector instead of a column vector. |
+| X⁽ⁱ⁾   | Feature vector for example i | A column vector containing all features (x₀ to xₙ) for one training example. |
+| Y⁽ⁱ⁾   | Label for example i | The true output (target value) for training example i. |
+| X      | Feature matrix | All training examples stacked together. Each row is one example’s feature vector. x₀ is always 1 (for the bias term). |
+| Y      | Label vector | A column vector containing the true labels for all training examples. |
+| Ŷ      | Predicted outputs | The model’s predicted values for all training examples. |
+
 ### Linear Regression
 - A linear regression models a relationship between variables:
 <img width="177" height="44" alt="image" src="https://github.com/user-attachments/assets/9fd518bc-cf3d-45ea-a635-c85b379a3e48" />
