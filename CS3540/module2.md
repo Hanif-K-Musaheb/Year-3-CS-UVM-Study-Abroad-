@@ -1,4 +1,4 @@
-# [Module 1-5](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3540/CS3540.md)
+# [Module 2](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS3540/CS3540.md)
 ### A quick table with most of the symbols and there info:
 | Symbol | What It Is | Simple Explanation |
 |--------|------------|-------------------|
@@ -41,6 +41,7 @@
 - **Hypothesis / model / prediction** = <img width="201" height="71" alt="image" src="https://github.com/user-attachments/assets/a0d3796e-9a10-46a9-b744-471623356dcf" />
 - **ŷ (y-hat)** if y = real value; then ŷ = model guess
 - **Error/Residual** = ŷ-y
+- 
 ##### Cost function / loss function
 >This collapses all errors into **one number**.
 
