@@ -22,6 +22,9 @@ It uses log loss (cross-entropy):
 
 <img width="421" height="38" alt="image" src="https://github.com/user-attachments/assets/d0a08d2d-1fa0-4269-a49b-ff507b71f6c5" />
 
+<img height="80" alt="image" src="https://github.com/user-attachments/assets/2ad9a2d2-2e71-4a0e-83f2-108da164427f" />
+
+
 #### Why?
  - It works better with probabilities.
  - It makes optimization convex.
@@ -37,3 +40,13 @@ Cross-entropy heavily punishes being **confident and wrong**.
 ### Decision Boundary
 <img height="250" alt="image" src="https://github.com/user-attachments/assets/4e701e4f-97d3-4e46-979e-2b5255130784" />
 <img height="250" alt="image" src="https://github.com/user-attachments/assets/3f838218-74de-40ad-bf71-2c55623ab070" />
+
+------------
+
+## Multi class classification
+
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/cccfa6ea-0354-444d-89d7-277f33419e19" />
+
+
+
+
