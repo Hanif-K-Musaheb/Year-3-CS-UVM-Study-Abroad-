@@ -119,7 +119,7 @@ simultaneously, the data needs to be split into three disjoint datasets:
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/b385edd1-45cc-4557-bd93-1d10bb95e086" />
 
 ### Leave-One-Out Cross Validation (LOOCV)
->This is a special case of K-Fold.
+>This is a special case of K-Fold. Used mainly for very small datasets.
 <img width="278" height="38" alt="image" src="https://github.com/user-attachments/assets/4f519740-72fa-4501-8148-67021f8cfb9d" />
 
 
