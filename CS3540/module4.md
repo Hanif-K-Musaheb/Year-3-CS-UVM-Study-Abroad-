@@ -116,6 +116,11 @@ simultaneously, the data needs to be split into three disjoint datasets:
  - Validation set: a set of examples used to tune the hyper parameters of a classifier.
  - Test set: a set of examples used only to assess the performance of a fully-trained classifier
 
-<img width="1138" height="605" alt="image" src="https://github.com/user-attachments/assets/b385edd1-45cc-4557-bd93-1d10bb95e086" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/b385edd1-45cc-4557-bd93-1d10bb95e086" />
+
+### Leave-One-Out Cross Validation (LOOCV)
+>This is a special case of K-Fold.
+<img width="278" height="38" alt="image" src="https://github.com/user-attachments/assets/4f519740-72fa-4501-8148-67021f8cfb9d" />
+
 
 
