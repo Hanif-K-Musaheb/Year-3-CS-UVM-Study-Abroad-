@@ -88,6 +88,27 @@ computations.
 ### Grid vs Random Search for Model selection
 When tuning the hyperparameters of an estimator, Grid Search and Random Search are both popular methods.
 
+### Repeated Random Sub-Sampling Validation
+##### What it does
+ - Randomly split data into:
+   - Training set (e.g., 90%)
+   - Validation set (e.g., 10%)
+ - Train model
+ - Measure validation performance
+ - Repeat this many times with different random splits
+ - Average the results
+
+### K-Fold Cross Validation (K-Fold CV)
+> This is the most common one.
+
+What it does:
+ - Split data into K equal parts (folds)
+ - For each fold:
+   - Use that fold as validation
+   - Use the other K−1 folds as training
+ - Repeat K times
+ - Average performance
+
 ### Three-way data splits
 >If Both model selection and true error estimates are to be computed
 simultaneously, the data needs to be split into three disjoint datasets:
@@ -95,5 +116,6 @@ simultaneously, the data needs to be split into three disjoint datasets:
  - Validation set: a set of examples used to tune the hyper parameters of a classifier.
  - Test set: a set of examples used only to assess the performance of a fully-trained classifier
 
-  
+<img width="1138" height="605" alt="image" src="https://github.com/user-attachments/assets/b385edd1-45cc-4557-bd93-1d10bb95e086" />
+
 
