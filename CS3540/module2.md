@@ -76,6 +76,7 @@ Lasso stands for:
 ### Elastic Net Regularization
 > Elastic Net is a regularization method that combines Ridge (L2) and Lasso (L1) penalties.
 <img width="526" height="74" alt="image" src="https://github.com/user-attachments/assets/bdd67568-a2c8-4c22-bc0a-0e2afe37bbb5" />
+
  - α (alpha) → controls the mix:
  - α = 1 → pure Lasso
  - α = 0 → pure Ridge
