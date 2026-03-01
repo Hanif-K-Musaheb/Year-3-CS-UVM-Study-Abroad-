@@ -47,6 +47,50 @@ Cross-entropy heavily punishes being **confident and wrong**.
 
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/cccfa6ea-0354-444d-89d7-277f33419e19" />
 
+-------------
+
+## Decision Tree
+### A decision tree is a supervised machine learning model used for:
+ - **Classification** (predicting categories)
+ - **Regression** (predicting numbers)
+
+### It works like a flowchart:
+ - Each **internal node** = a question about a feature
+ - Each **branch** = answer to that question
+ - Each **leaf node** = final prediction
+
+### The Algorithm That Forms Decision Trees (recursive binary splitting)
+#### How it works (step by step):
+1. Start with all training data.
+2. Try all possible splits on all features.
+3. Choose the split that best separates the data.
+4. Split the dataset.
+5. Repeat recursively until:
+   - The data is pure enough, or
+   - A stopping rule is met.
+
+### Different Measures Used for Splits
+>To decide the “best” split, we measure **impurity**.
+Gini Impurity Used by CART.
+<img width="219" height="57" alt="image" src="https://github.com/user-attachments/assets/7e17fdb5-ba3e-4018-bfc0-c9611b176129" />
+
+### Entropy
+>Entropy measures disorder (from information theory).
+<img width="320" height="50" alt="image" src="https://github.com/user-attachments/assets/db89aff2-cfa3-4969-b0f9-d56cfe7a0823" />
+
+### Information Gain
+>We choose the split that gives the largest information gain.
+<img width="604" height="36" alt="image" src="https://github.com/user-attachments/assets/b6c1ae42-2b30-4e40-a23f-916be3bcfae5" />
+
+### Regularising Decision Trees
+Decision trees can overfit easily (they grow very deep and memorize training data).
+#### Common Regularization Methods:
+ - **Max Depth** - Limit how deep the tree can grow.
+ - **Minimum Samples Split** - Minimum number of samples required to split a node.
+ - **Minimum Samples Leaf** - Minimum samples allowed in a leaf.
+ - **Cost Complexity Pruning** - Grow a big tree first, then prune weak branches.
+   
+
 
 
 
