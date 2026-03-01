@@ -33,7 +33,8 @@
  - So:
  - OOB evaluation --> built-in cross-validation for bagging
 ### Random Forrest
-A Random Forest is a specific type of bagging using decision trees.
+A Random Forest is an ensemble learning method that builds multiple decision trees using bootstrap samples and random feature selection, then aggregates their predictions to improve accuracy and reduce variance.
+
 A Random Forest:
  - Uses bagging
  - Uses decision trees
