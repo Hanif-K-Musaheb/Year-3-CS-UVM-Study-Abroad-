@@ -62,9 +62,13 @@ Models have hyperparameters.
 <img width="877" height="291" alt="image" src="https://github.com/user-attachments/assets/906fc58a-b6b6-4bf8-aecd-2cfa8e250047" />
 
  - **Y-axis**: True Positive Rate (TPR)
+
  - <img width="209" height="82" alt="image" src="https://github.com/user-attachments/assets/2965221c-eae4-42ea-b0b0-4aa70cd8a337" />
+ 
  - **X-axis**: False Positive Rate (FPR)
+
 <img width="200" height="77" alt="image" src="https://github.com/user-attachments/assets/93340705-66bd-4d3a-8268-d52dae20d0fc" />
+
  - A **perfect classifier** goes straight up the left side, then across the top.
  - A **random classifier** gives a diagonal line (like flipping a coin).
 
