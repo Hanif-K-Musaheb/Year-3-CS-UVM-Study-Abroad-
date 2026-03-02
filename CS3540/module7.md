@@ -62,7 +62,9 @@ Use small random batch
  - Look for "elbow"
 #### Silhouette Score
 <img width="122" height="78" alt="image" src="https://github.com/user-attachments/assets/432be50b-d0d8-493e-a1ad-15468e8dc76d" />
+
 ##### where:
+
  - a = mean intra-cluster distance
  - b = mean nearest-cluster distance
 
