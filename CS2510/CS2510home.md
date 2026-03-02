@@ -15,7 +15,7 @@
  
 --------------------------
 
-### [Logic programming, knowledge representation, expert systems]()
-### [Heuristic search: A*, IDA*; admissibility and consistency]()
-### [Adversarial games: minimax, expectiminimax, other techniques]()
+### [1. Logic programming, knowledge representation, expert systems]()
+### [2. Heuristic search: A*, IDA*; admissibility and consistency]()
+### [3. Adversarial games: minimax, expectiminimax, other techniques]()
 
