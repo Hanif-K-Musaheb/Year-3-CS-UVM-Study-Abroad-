@@ -2,3 +2,7 @@
 ## Adversarial Games
 alpha beta pruning
 quiesent search
+
+## Alpha beta pruning
+ - **Alpha** = best already explored option along path to the root for **maximizer**
+ - **Beta** = best already explored option along path to the root for **minimizer**
