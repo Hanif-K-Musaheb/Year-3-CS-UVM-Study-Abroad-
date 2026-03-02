@@ -12,3 +12,10 @@
  - [week 4](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/scribe.md)
  - [week 5](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/week5.md)
  - [week 6](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/week6.md)
+ 
+--------------------------
+
+### [Logic programming, knowledge representation, expert systems]()
+### [Heuristic search: A*, IDA*; admissibility and consistency]()
+### [Adversarial games: minimax, expectiminimax, other techniques]()
+
