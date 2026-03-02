@@ -69,9 +69,3 @@ Use small random batch
  - b = mean nearest-cluster distance
 
 ---------------
-
-### K-means
-### steps
-#### k means objective function
-
-#### k means limits
