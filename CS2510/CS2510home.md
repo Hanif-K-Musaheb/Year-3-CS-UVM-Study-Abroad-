@@ -15,7 +15,7 @@
  
 --------------------------
 
-### [1. Logic programming, knowledge representation, expert systems]()
-### [2. Heuristic search: A*, IDA*; admissibility and consistency]()
-### [3. Adversarial games: minimax, expectiminimax, other techniques]()
+### [1. Logic programming, knowledge representation, expert systems](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/topic1.md)
+### [2. Heuristic search: A*, IDA*; admissibility and consistency](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/topic2.md)
+### [3. Adversarial games: minimax, expectiminimax, other techniques](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/topic3.md)
 
