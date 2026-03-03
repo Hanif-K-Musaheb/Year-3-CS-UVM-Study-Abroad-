@@ -113,6 +113,19 @@ Also: (P ∧ Q) ∨ (¬P ∧ ¬Q)
 “None exist” = “for all, not”
 ```
 
+## Satisfiability, validity, and tautology
+>well-formed formula (WFF)
+
+ - We call a WFF **satisfiable** if there is at least one interpretation for which it is
+true.
+ - Conversely, we call a WFF **unsatisfiable** if it is not true for any interpretation.
+ - We call a WFF **valid** if it is true for all interpretations.
+ - A **tautology** is a WFF whose negation is unsatisfiable. In propositional logic, validity and tautology are equivalent (but this is not so in other logics).
+
+
+
+
+
 
 
 
