@@ -6,6 +6,7 @@
 
 
 > [Scribe week 02 feb](https://brightspace.uvm.edu/d2l/le/content/152447/viewContent/2620315/View)
+
 > [My scribe notes](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/scribe.md)
 -----------------------
  - [AI Logics](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/AIlogics.md)
