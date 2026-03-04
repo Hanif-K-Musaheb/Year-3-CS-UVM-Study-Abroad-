@@ -13,10 +13,10 @@
  - [ ] Logic programming with Prolog (T/F, multiple choice, or similar only; you will not be asked to produce code)
  - [ ] Knowledge representation (T/F or multiple choice only)
     - [ ] To prepare, review the Davis, Shrobe & Szolovits [sic] paper.
- - [ ] Heuristic search
-   - [ ] A*
-     - [ ] Be prepared to choose or devise a heuristic for a new kind of problem instance.
-     - [ ] Be prepared to answer questions about admissibility and consistency.
+ - [x] Heuristic search
+   - [x] A*
+     - [x] Be prepared to choose or devise a heuristic for a new kind of problem instance.
+     - [x] Be prepared to answer questions about admissibility and consistency.
      - [x] Be prepared to trace execution of a small problem instance, etc.
    - [x] IDA*
      - [x] Know the difference between A and IDA.
