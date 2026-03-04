@@ -29,6 +29,7 @@ You start with a Knowledge Base (KB):
  - Is Q necessarily true given KB?
 This is written as:
 <img width="106" height="37" alt="image" src="https://github.com/user-attachments/assets/acb9b8a6-aca3-4137-ae43-234e607ca27b" />
+
 > This means: n every possible interpretation where KB is true, Q is also true.
 
 
