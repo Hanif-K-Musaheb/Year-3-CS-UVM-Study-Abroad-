@@ -8,6 +8,25 @@
 > [Scribe week 02 feb](https://brightspace.uvm.edu/d2l/le/content/152447/viewContent/2620315/View)
 
 > [My scribe notes](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/scribe.md)
+
+
+ - [ ] Logic programming with Prolog (T/F, multiple choice, or similar only; you will not be asked to produce code)
+ - [ ] Knowledge representation (T/F or multiple choice only)
+    - [ ] To prepare, review the Davis, Shrobe & Szolovits [sic] paper.
+ - [ ] Heuristic search
+   - [ ] A*
+     - [ ] Be prepared to choose or devise a heuristic for a new kind of problem instance.
+     - [ ] Be prepared to answer questions about admissibility and consistency.
+     - [x] Be prepared to trace execution of a small problem instance, etc.
+   - [x] IDA*
+     - [x] Know the difference between A and IDA.
+     - [x] Be prepared to answer general questions about the algorithm and its complexity.
+     - [x] Be prepared to trace execution of a small problem instance.
+- [x] Adversarial games (limited to two-player, deterministic, fully observable, turn-taking games)
+   - [x] Minimax and α-β pruning
+     - [x] Be prepared to answer general questions on minimax and α-β pruning.
+     - [x] Be prepared to trace execution of a small problem instance, identifying pruning opportunities (if any).
+
 -----------------------
  - [AI Logics](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/AIlogics.md)
  - [Prolog](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/prolog.md)
