@@ -11,8 +11,8 @@
 
 
  - [ ] Logic programming with Prolog (T/F, multiple choice, or similar only; you will not be asked to produce code)
- - [ ] Knowledge representation (T/F or multiple choice only)
-    - [ ] To prepare, review the Davis, Shrobe & Szolovits [sic] paper.
+ - [x] Knowledge representation (T/F or multiple choice only)
+    - [x] To prepare, review the Davis, Shrobe & Szolovits [sic] paper.
  - [x] Heuristic search
    - [x] A*
      - [x] Be prepared to choose or devise a heuristic for a new kind of problem instance.
