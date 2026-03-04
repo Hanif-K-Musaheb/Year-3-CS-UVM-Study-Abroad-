@@ -19,3 +19,27 @@ holds true
 
 
 ## expert systems
+### what is a proof system
+A proof system lets us: Derive new facts from existing facts using logical rules.
+You start with a Knowledge Base (KB):
+
+ - A set of facts and rules.
+ - Then you ask:
+ - Does KB imply Q?
+ - Is Q necessarily true given KB?
+This is written as:
+<img width="106" height="37" alt="image" src="https://github.com/user-attachments/assets/acb9b8a6-aca3-4137-ae43-234e607ca27b" />
+> This means: n every possible interpretation where KB is true, Q is also true.
+
+
+### entailment
+Entailment (⊨)
+
+This is between:
+
+ - A set of statements (KB)
+ - A single statement (Q)
+ - KB⊨Q
+   
+It means:
+ - Every model that makes KB true also makes Q true.
