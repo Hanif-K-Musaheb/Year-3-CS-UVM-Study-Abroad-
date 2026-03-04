@@ -22,6 +22,7 @@
      - [x] Know the difference between A and IDA.
      - [x] Be prepared to answer general questions about the algorithm and its complexity.
      - [x] Be prepared to trace execution of a small problem instance.
+- [ ] idfs
 - [x] Adversarial games (limited to two-player, deterministic, fully observable, turn-taking games)
    - [x] Minimax and α-β pruning
      - [x] Be prepared to answer general questions on minimax and α-β pruning.
