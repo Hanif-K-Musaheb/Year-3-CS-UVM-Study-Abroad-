@@ -16,3 +16,8 @@ When using a neural network to classify an image or data point into multiple cat
  - **AND Gate**: To create an AND gate, the neuron is given a bias of -15 and a weight of +10 for both inputs ($x_1$ and $x_2$). The mathematical formula is $h_w(x) = g(-15 + 10x_1 + 10x_2)$. Looking at the truth table, the sum is only positive when both inputs are 1 (10 + 10 - 15 = 5), which triggers the function to output a 1.
  - **OR Gate**: For an OR gate, the weights remain +10, but the bias is raised to -5. Because the bias is less negative, if either input is 1, the total sum becomes positive (10 - 5 = 5), resulting in an output of 1.
  - **NOT Gate**: A simple NOT function for a single input is built using a positive bias (+5) and a negative weight (-10). If the input is 0, the sum is 5 (outputting 1); if the input is 1, the sum is -5 (outputting 0).
+
+## Understanding Backpropagation in Neural Networks
+### 1. The Forward Pass
+Data is fed into the input layer and travels through the hidden layers. Each neuron performs a weighted sum of its inputs and applies an activation function (a mathematical formula that determines if a neuron should "fire"). The final output is then compared to the actual target value using a loss function (a measure of how far off the prediction was).
+
