@@ -1,4 +1,6 @@
 # [Decision trees, random forest, and ensemble learning](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/CS2510home.md)
+## Decision Trees
+### Entropy
 >We use entropy to figure out how much information we gain with that being on the decision tree. For example if that question on the decision tree can be used to split the information in half then we have gained a lot of information but if we on split one possibility from it then we have barely gained any information.
 ### Entropy Calculator
 ```python
