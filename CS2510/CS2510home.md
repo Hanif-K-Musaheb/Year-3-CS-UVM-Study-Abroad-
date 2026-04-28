@@ -25,3 +25,21 @@
 ### [4. Markov models and Markov decision processes (MDPs)](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/topic4.md)
 ### [5. Decision trees, random forest, and ensemble learning](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/topic5.md)
 ### [6. The neural model: multi-layer perceptron networks](https://github.com/Hanif-K-Musaheb/Year-3-CS-UVM-Study-Abroad-/blob/main/CS2510/topic6.md)
+
+-------------------------
+#### Topics for final exam
+- [ ] Logic programming with Prolog (20 points)
+- [ ] Heuristic search (20 points)
+- [ ] Admissible and consistent heuristics
+- [ ] A*
+- [ ] IDA*
+- [ ] Adversarial games (20 points)
+- [ ] Minimax
+- [ ] Alpha-beta pruning
+- [ ] Expectiminimax
+- [ ] Markov models and Markov decision processes (50 points)
+- [ ] Decision trees, ensemble learning, and random forest (50 points)
+- [ ] Neural model, perceptrons, and multi-layer perceptrons (40 points)
+- [ ] There will be one extra credit problem where you'll be asked to produce an admissible or consistent heuristic for a problem instance you've not seen before. This problem will be entirely optional, but if you took a lump on the heuristic problem on the midterm, this will be your chance to make good.
+------------------------
+
