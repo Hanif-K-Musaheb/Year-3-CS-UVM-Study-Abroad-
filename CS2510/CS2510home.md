@@ -28,6 +28,11 @@
 
 -------------------------
 #### Topics for final exam
+##### To Do:
+- [ ] [do ida* practice](https://brightspace.uvm.edu/d2l/le/content/152447/viewContent/2667725/View)
+- [ ] [read this on admisable](https://brightspace.uvm.edu/d2l/le/content/152447/viewContent/2670171/View)
+
+##### Topics
 - [ ] Logic programming with Prolog (20 points)
 - [ ] Heuristic search (20 points)
 - [ ] Admissible and consistent heuristics
